@@ -1,47 +1,829 @@
-[Event "Alapin Gambit - Ch 1: Accepted, 6...Be7 main line"]
+[Event "Alapin Gambit - Ch 1: Accepted, 6...Be7 main line - line 1/14"]
 [Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
 [White "Repertoire"]
 [Black "Chapter 1"]
 [Result "*"]
 
-1. e4 e6 2. d4 d5 3. Be3 {The Alapin Gambit. White develops a piece and dares Black to grab e4. Across 281,609 Lichess blitz/rapid games White scores 52 percent from here, and the positions are far easier to play for White: every plan is the same attacking plan.} dxe4 {Taken in 61 percent of games - 77 percent at 2200+. The declines 3...Nf6 and 3...c5 are Chapters 5 and 6.} 4. Nd2 {More accurate than the popular immediate 4.f3, and Stockfish agrees (-0.4, its top choice). The knight is headed for f3, c4 or e5, and White keeps every option of regaining e4 or gambitting it properly.} Nf6 {Natural development, 66 percent of games. 4...f5, trying to keep the pawn, is Chapter 4.} 5. f3 {The gambit proper. White opens the f-file at the cost of a pawn: after the recapture on f3 every white piece flows toward the black king. Stockfish defends to -0.8 with perfect play, but humans never manage it - White scores 52-53 percent at every rating band from 1400 to 2500.} exf3 {80 percent of players accept. The engine's stubborn 5...Nd5 is covered in Chapter 3.} 6. Ngxf3 {The right recapture: the d2-knight keeps its routes to c4, e5 and e4.} Be7 {Black's most popular setup (32 percent). The alternatives 6...Bd6, 6...b6, 6...Bb4 and 6...Nd5 are Chapter 3.} 7. Bd3 {Aimed at h7. White's attack now plays itself: O-O, Qe1-h4, Ne5, Bg5, rooks to the half-open f-file.} O-O 8. O-O {Both sides castle short - but only one king will feel a breeze. The lift Qe1-h4 is coming.} b6 (8... Nbd7 9. Qe1 {The signature regrouping: the queen swings to h4. White scores 58 percent from this position.} c5 {The thematic French break, but it arrives too late: lines open while White's pieces are already pointed at the king. Stockfish +1.1.} (9... b6 10. Qh4 Bb7 (10... g6 {Stopping the queen's entry on h7 - but the dark squares pay the price.} 11. Ng5 h5 12. Nxe6 {The knight forks d8 and f8. And the defensive try 12...fxe6 fails to 13.Bxg6: Stockfish +2.7 with the king ripped open.}) 11. Ne5 {The octopus lands. Black is already busted on the engine: the f7/g6/h7 complex cannot be held forever.} g6 12. Bg5 Nxe5 13. dxe5 Nd5 14. Ne4 {The d2-knight joins the hunt via e4, eyeing f6 and d6.} Bxg5 15. Nxg5 h5 16. Be4 {+2.5. A pawn down, utterly winning: the dark squares around the king are ruined and every white piece participates. White scores 80 percent from here.}) (9... Re8 10. Qh4 Nf8 {Black has arranged the classical defensive setup - and Stockfish already shows +2.6, because f7 and h7 still cannot both be covered.} 11. Ng5 h5 12. Ndf3 {Threatening to win on h5: the engine line runs 12...N6h7 13.Bxh7+ Nxh7 14.Qxh5 with +2.8 and the attack rolling on.}) 10. Qh4 cxd4 (10... g6 11. Bg5 {+1.0, and White scores 78 percent: the pin is miserable to face with the dark squares this soft.}) 11. Bg5 h6 {Played in a third of games - and losing on the spot.} (11... g6 12. Rae1 {Calm: with the a1-rook joining, every white piece aims at e6 and f7. The engine continues 12...Nb6 13.Ne5 keeping +1.1.}) 12. Bxh6 {+4.7. After 12...gxh6 13.Qxh6 the threats of Ng5 and a rook lift decide immediately.}) (8... Nc6 9. c3 {Blunting ...Nb4 against the d3-bishop and shoring up d4. The c6-knight now bites on granite.} Nd5 (9... b6 10. Qe2 {With a knight ready to land on d5, the queen takes the e2 square instead: Rae1 and Ne5 come next, and White keeps full attacking flexibility.}) 10. Bf2 {The bishop steps out of the trade and keeps the dark-square grip.} Nf4 (10... Bf6 11. Qe1 {The lift proceeds regardless - +0.3 and a 70 percent practical score. White will follow with Qh4 or Ne4 hitting the f6-bishop.}) 11. Bc2 {Keeping the bishop pair trained on the kingside; g3 will evict the knight next. The engine calls it equal - the practical chances are all White's.}) 9. Qe1 {The signature lift. From h4 the queen will eye h7 and back every piece sacrifice on the kingside. White already scores 57 percent here.} Bb7 {Now Stockfish calls the position dead equal (+0.1) - the gambit pawn is fully compensated - and in practice White's score climbs to 58 percent.} 10. Qh4 Nbd7 (10... g6 11. Bg5 Nd5 {Trying to trade pieces - but the knight steps off the kingside at the worst moment.} (11... Nbd7 12. Ne5 Nxe5 13. dxe5 Nd5 14. Ne4 Bxg5 15. Nxg5 h5 16. Be4 {The same winning bind as in the main line: +2.5, dark squares gone, 80 percent score.}) 12. c4 {+2.9, and White scores a remarkable 94 percent: the knight has no decent square.} f6 13. Bh6 {Winning material: the f8-rook is dominated. Stockfish +3.0.}) 11. Ne5 {Clamping down on f7 and g6. Objectively balanced still - but Black must now find only-moves while White's play is effortless.} g6 {The most common defence (40 percent of games) - and the decisive mistake: Stockfish jumps to +1.7. The dark squares can never be repaired.} (11... Ne4 {The engine's defence: trade pieces at any cost.} 12. Qh3 {Keeping e6 and h7 in the crosshairs. Now the forcing line 12...Ndf6 13.Rf3 Nxd2 14.Rxf6 Ne4 15.Nxf7 Rxf7 16.Rxf7 ends +1.3 with Black's king permanently airy.} Ndf6 13. Rf3 {The rook lift: threatening to triple on the f-file or swing to h3.} Nxd2 14. Rxf6 {The exchange sacrifice that isn't: White regains everything by force.} Ne4 15. Nxf7 {The point. The knight grabs f7 with tempo on the queen via d8.} Rxf7 16. Rxf7 {+1.3. Material is level again but every black weakness remains: e6 hangs, the king is exposed, and Bc4 ideas pile up next.}) 12. Bg5 {+2.1. The e7-bishop is the only defender of the dark squares - so White trades it off or wins it.} Nxe5 (12... Nd5 13. Rxf7 {The half-open f-file cashes in: +3.3. The rook cannot be accepted comfortably, and f7 simply collapses.}) 13. dxe5 Nd5 14. Ne4 {Heading for f6 or d6; note how the d2-knight has been a key attacker all game.} Bxg5 15. Nxg5 h5 16. Be4 {+2.5 and total domination for the pawn. This single line is the heart of the course: Bd3, Qe1-h4, Ne5, Bg5 - the same attack wins game after game at every level.} *
+1. e4 e6 2. d4 d5 3. Be3 { The Alapin Gambit. White develops a piece and dares Black to grab e4. Across 281,609 Lichess blitz/rapid games White scores 52 percent from here, and the positions are far easier to play for White: every plan is the same attacking plan. } 3... dxe4 { Taken in 61 percent of games - 77 percent at 2200+. The declines 3...Nf6 and 3...c5 are Chapters 5 and 6. } 4. Nd2 { More accurate than the popular immediate 4.f3, and Stockfish agrees (-0.4, its top choice). The knight is headed for f3, c4 or e5, and White keeps every option of regaining e4 or gambitting it properly. } 4... Nf6 { Natural development, 66 percent of games. 4...f5, trying to keep the pawn, is Chapter 4. } 5. f3 { The gambit proper. White opens the f-file at the cost of a pawn: after the recapture on f3 every white piece flows toward the black king. Stockfish defends to -0.8 with perfect play, but humans never manage it - White scores 52-53 percent at every rating band from 1400 to 2500. } 5... exf3 { 80 percent of players accept. The engine's stubborn 5...Nd5 is covered in Chapter 3. } 6. Ngxf3 { The right recapture: the d2-knight keeps its routes to c4, e5 and e4. } 6... Be7 { Black's most popular setup (32 percent). The alternatives 6...Bd6, 6...b6, 6...Bb4 and 6...Nd5 are Chapter 3. } 7. Bd3 { Aimed at h7. White's attack now plays itself: O-O, Qe1-h4, Ne5, Bg5, rooks to the half-open f-file. } 7... O-O 8. O-O { Both sides castle short - but only one king will feel a breeze. The lift Qe1-h4 is coming. } 8... b6 9. Qe1 { The signature lift. From h4 the queen will eye h7 and back every piece sacrifice on the kingside. White already scores 57 percent here. } 9... Bb7 { Now Stockfish calls the position dead equal (+0.1) - the gambit pawn is fully compensated - and in practice White's score climbs to 58 percent. } 10. Qh4 Nbd7 11. Ne5 { Clamping down on f7 and g6. Objectively balanced still - but Black must now find only-moves while White's play is effortless. } 11... g6 { The most common defence (40 percent of games) - and the decisive mistake: Stockfish jumps to +1.7. The dark squares can never be repaired. } 12. Bg5 { +2.1. The e7-bishop is the only defender of the dark squares - so White trades it off or wins it. } 12... Nxe5 13. dxe5 Nd5 14. Ne4 { Heading for f6 or d6; note how the d2-knight has been a key attacker all game. } 14... Bxg5 15. Nxg5 h5 16. Be4 { +2.5 and total domination for the pawn. This single line is the heart of the course: Bd3, Qe1-h4, Ne5, Bg5 - the same attack wins game after game at every level. } *
 
-[Event "Alapin Gambit - Ch 2: Accepted, 6...Be7 with 7...Nd5 or 7...b6"]
+[Event "Alapin Gambit - Ch 1: Accepted, 6...Be7 main line - line 2/14"]
 [Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 1"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 { The Alapin Gambit. White develops a piece and dares Black to grab e4. Across 281,609 Lichess blitz/rapid games White scores 52 percent from here, and the positions are far easier to play for White: every plan is the same attacking plan. } 3... dxe4 { Taken in 61 percent of games - 77 percent at 2200+. The declines 3...Nf6 and 3...c5 are Chapters 5 and 6. } 4. Nd2 { More accurate than the popular immediate 4.f3, and Stockfish agrees (-0.4, its top choice). The knight is headed for f3, c4 or e5, and White keeps every option of regaining e4 or gambitting it properly. } 4... Nf6 { Natural development, 66 percent of games. 4...f5, trying to keep the pawn, is Chapter 4. } 5. f3 { The gambit proper. White opens the f-file at the cost of a pawn: after the recapture on f3 every white piece flows toward the black king. Stockfish defends to -0.8 with perfect play, but humans never manage it - White scores 52-53 percent at every rating band from 1400 to 2500. } 5... exf3 { 80 percent of players accept. The engine's stubborn 5...Nd5 is covered in Chapter 3. } 6. Ngxf3 { The right recapture: the d2-knight keeps its routes to c4, e5 and e4. } 6... Be7 { Black's most popular setup (32 percent). The alternatives 6...Bd6, 6...b6, 6...Bb4 and 6...Nd5 are Chapter 3. } 7. Bd3 { Aimed at h7. White's attack now plays itself: O-O, Qe1-h4, Ne5, Bg5, rooks to the half-open f-file. } 7... O-O 8. O-O { Both sides castle short - but only one king will feel a breeze. The lift Qe1-h4 is coming. } 8... b6 9. Qe1 { The signature lift. From h4 the queen will eye h7 and back every piece sacrifice on the kingside. White already scores 57 percent here. } 9... Bb7 { Now Stockfish calls the position dead equal (+0.1) - the gambit pawn is fully compensated - and in practice White's score climbs to 58 percent. } 10. Qh4 Nbd7 11. Ne5 { Clamping down on f7 and g6. Objectively balanced still - but Black must now find only-moves while White's play is effortless. } 11... g6 { The most common defence (40 percent of games) - and the decisive mistake: Stockfish jumps to +1.7. The dark squares can never be repaired. } 12. Bg5 { +2.1. The e7-bishop is the only defender of the dark squares - so White trades it off or wins it. } 12... Nd5 13. Rxf7 { The half-open f-file cashes in: +3.3. The rook cannot be accepted comfortably, and f7 simply collapses. } *
+
+[Event "Alapin Gambit - Ch 1: Accepted, 6...Be7 main line - line 3/14"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 1"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 { The Alapin Gambit. White develops a piece and dares Black to grab e4. Across 281,609 Lichess blitz/rapid games White scores 52 percent from here, and the positions are far easier to play for White: every plan is the same attacking plan. } 3... dxe4 { Taken in 61 percent of games - 77 percent at 2200+. The declines 3...Nf6 and 3...c5 are Chapters 5 and 6. } 4. Nd2 { More accurate than the popular immediate 4.f3, and Stockfish agrees (-0.4, its top choice). The knight is headed for f3, c4 or e5, and White keeps every option of regaining e4 or gambitting it properly. } 4... Nf6 { Natural development, 66 percent of games. 4...f5, trying to keep the pawn, is Chapter 4. } 5. f3 { The gambit proper. White opens the f-file at the cost of a pawn: after the recapture on f3 every white piece flows toward the black king. Stockfish defends to -0.8 with perfect play, but humans never manage it - White scores 52-53 percent at every rating band from 1400 to 2500. } 5... exf3 { 80 percent of players accept. The engine's stubborn 5...Nd5 is covered in Chapter 3. } 6. Ngxf3 { The right recapture: the d2-knight keeps its routes to c4, e5 and e4. } 6... Be7 { Black's most popular setup (32 percent). The alternatives 6...Bd6, 6...b6, 6...Bb4 and 6...Nd5 are Chapter 3. } 7. Bd3 { Aimed at h7. White's attack now plays itself: O-O, Qe1-h4, Ne5, Bg5, rooks to the half-open f-file. } 7... O-O 8. O-O { Both sides castle short - but only one king will feel a breeze. The lift Qe1-h4 is coming. } 8... b6 9. Qe1 { The signature lift. From h4 the queen will eye h7 and back every piece sacrifice on the kingside. White already scores 57 percent here. } 9... Bb7 { Now Stockfish calls the position dead equal (+0.1) - the gambit pawn is fully compensated - and in practice White's score climbs to 58 percent. } 10. Qh4 Nbd7 11. Ne5 { Clamping down on f7 and g6. Objectively balanced still - but Black must now find only-moves while White's play is effortless. } 11... Ne4 { The engine's defence: trade pieces at any cost. } 12. Qh3 { Keeping e6 and h7 in the crosshairs. Now the forcing line 12...Ndf6 13.Rf3 Nxd2 14.Rxf6 Ne4 15.Nxf7 Rxf7 16.Rxf7 ends +1.3 with Black's king permanently airy. } 12... Ndf6 13. Rf3 { The rook lift: threatening to triple on the f-file or swing to h3. } 13... Nxd2 14. Rxf6 { The exchange sacrifice that isn't: White regains everything by force. } 14... Ne4 15. Nxf7 { The point. The knight grabs f7 with tempo on the queen via d8. } 15... Rxf7 16. Rxf7 { +1.3. Material is level again but every black weakness remains: e6 hangs, the king is exposed, and Bc4 ideas pile up next. } *
+
+[Event "Alapin Gambit - Ch 1: Accepted, 6...Be7 main line - line 4/14"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 1"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 { The Alapin Gambit. White develops a piece and dares Black to grab e4. Across 281,609 Lichess blitz/rapid games White scores 52 percent from here, and the positions are far easier to play for White: every plan is the same attacking plan. } 3... dxe4 { Taken in 61 percent of games - 77 percent at 2200+. The declines 3...Nf6 and 3...c5 are Chapters 5 and 6. } 4. Nd2 { More accurate than the popular immediate 4.f3, and Stockfish agrees (-0.4, its top choice). The knight is headed for f3, c4 or e5, and White keeps every option of regaining e4 or gambitting it properly. } 4... Nf6 { Natural development, 66 percent of games. 4...f5, trying to keep the pawn, is Chapter 4. } 5. f3 { The gambit proper. White opens the f-file at the cost of a pawn: after the recapture on f3 every white piece flows toward the black king. Stockfish defends to -0.8 with perfect play, but humans never manage it - White scores 52-53 percent at every rating band from 1400 to 2500. } 5... exf3 { 80 percent of players accept. The engine's stubborn 5...Nd5 is covered in Chapter 3. } 6. Ngxf3 { The right recapture: the d2-knight keeps its routes to c4, e5 and e4. } 6... Be7 { Black's most popular setup (32 percent). The alternatives 6...Bd6, 6...b6, 6...Bb4 and 6...Nd5 are Chapter 3. } 7. Bd3 { Aimed at h7. White's attack now plays itself: O-O, Qe1-h4, Ne5, Bg5, rooks to the half-open f-file. } 7... O-O 8. O-O { Both sides castle short - but only one king will feel a breeze. The lift Qe1-h4 is coming. } 8... b6 9. Qe1 { The signature lift. From h4 the queen will eye h7 and back every piece sacrifice on the kingside. White already scores 57 percent here. } 9... Bb7 { Now Stockfish calls the position dead equal (+0.1) - the gambit pawn is fully compensated - and in practice White's score climbs to 58 percent. } 10. Qh4 g6 11. Bg5 Nd5 { Trying to trade pieces - but the knight steps off the kingside at the worst moment. } 12. c4 { +2.9, and White scores a remarkable 94 percent: the knight has no decent square. } 12... f6 13. Bh6 { Winning material: the f8-rook is dominated. Stockfish +3.0. } *
+
+[Event "Alapin Gambit - Ch 1: Accepted, 6...Be7 main line - line 5/14"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 1"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 { The Alapin Gambit. White develops a piece and dares Black to grab e4. Across 281,609 Lichess blitz/rapid games White scores 52 percent from here, and the positions are far easier to play for White: every plan is the same attacking plan. } 3... dxe4 { Taken in 61 percent of games - 77 percent at 2200+. The declines 3...Nf6 and 3...c5 are Chapters 5 and 6. } 4. Nd2 { More accurate than the popular immediate 4.f3, and Stockfish agrees (-0.4, its top choice). The knight is headed for f3, c4 or e5, and White keeps every option of regaining e4 or gambitting it properly. } 4... Nf6 { Natural development, 66 percent of games. 4...f5, trying to keep the pawn, is Chapter 4. } 5. f3 { The gambit proper. White opens the f-file at the cost of a pawn: after the recapture on f3 every white piece flows toward the black king. Stockfish defends to -0.8 with perfect play, but humans never manage it - White scores 52-53 percent at every rating band from 1400 to 2500. } 5... exf3 { 80 percent of players accept. The engine's stubborn 5...Nd5 is covered in Chapter 3. } 6. Ngxf3 { The right recapture: the d2-knight keeps its routes to c4, e5 and e4. } 6... Be7 { Black's most popular setup (32 percent). The alternatives 6...Bd6, 6...b6, 6...Bb4 and 6...Nd5 are Chapter 3. } 7. Bd3 { Aimed at h7. White's attack now plays itself: O-O, Qe1-h4, Ne5, Bg5, rooks to the half-open f-file. } 7... O-O 8. O-O { Both sides castle short - but only one king will feel a breeze. The lift Qe1-h4 is coming. } 8... b6 9. Qe1 { The signature lift. From h4 the queen will eye h7 and back every piece sacrifice on the kingside. White already scores 57 percent here. } 9... Bb7 { Now Stockfish calls the position dead equal (+0.1) - the gambit pawn is fully compensated - and in practice White's score climbs to 58 percent. } 10. Qh4 g6 11. Bg5 Nbd7 12. Ne5 Nxe5 13. dxe5 Nd5 14. Ne4 Bxg5 15. Nxg5 h5 16. Be4 { The same winning bind as in the main line: +2.5, dark squares gone, 80 percent score. } *
+
+[Event "Alapin Gambit - Ch 1: Accepted, 6...Be7 main line - line 6/14"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 1"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 { The Alapin Gambit. White develops a piece and dares Black to grab e4. Across 281,609 Lichess blitz/rapid games White scores 52 percent from here, and the positions are far easier to play for White: every plan is the same attacking plan. } 3... dxe4 { Taken in 61 percent of games - 77 percent at 2200+. The declines 3...Nf6 and 3...c5 are Chapters 5 and 6. } 4. Nd2 { More accurate than the popular immediate 4.f3, and Stockfish agrees (-0.4, its top choice). The knight is headed for f3, c4 or e5, and White keeps every option of regaining e4 or gambitting it properly. } 4... Nf6 { Natural development, 66 percent of games. 4...f5, trying to keep the pawn, is Chapter 4. } 5. f3 { The gambit proper. White opens the f-file at the cost of a pawn: after the recapture on f3 every white piece flows toward the black king. Stockfish defends to -0.8 with perfect play, but humans never manage it - White scores 52-53 percent at every rating band from 1400 to 2500. } 5... exf3 { 80 percent of players accept. The engine's stubborn 5...Nd5 is covered in Chapter 3. } 6. Ngxf3 { The right recapture: the d2-knight keeps its routes to c4, e5 and e4. } 6... Be7 { Black's most popular setup (32 percent). The alternatives 6...Bd6, 6...b6, 6...Bb4 and 6...Nd5 are Chapter 3. } 7. Bd3 { Aimed at h7. White's attack now plays itself: O-O, Qe1-h4, Ne5, Bg5, rooks to the half-open f-file. } 7... O-O 8. O-O { Both sides castle short - but only one king will feel a breeze. The lift Qe1-h4 is coming. } 8... Nbd7 9. Qe1 { The signature regrouping: the queen swings to h4. White scores 58 percent from this position. } 9... c5 { The thematic French break, but it arrives too late: lines open while White's pieces are already pointed at the king. Stockfish +1.1. } 10. Qh4 cxd4 11. Bg5 h6 { Played in a third of games - and losing on the spot. } 12. Bxh6 { +4.7. After 12...gxh6 13.Qxh6 the threats of Ng5 and a rook lift decide immediately. } *
+
+[Event "Alapin Gambit - Ch 1: Accepted, 6...Be7 main line - line 7/14"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 1"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 { The Alapin Gambit. White develops a piece and dares Black to grab e4. Across 281,609 Lichess blitz/rapid games White scores 52 percent from here, and the positions are far easier to play for White: every plan is the same attacking plan. } 3... dxe4 { Taken in 61 percent of games - 77 percent at 2200+. The declines 3...Nf6 and 3...c5 are Chapters 5 and 6. } 4. Nd2 { More accurate than the popular immediate 4.f3, and Stockfish agrees (-0.4, its top choice). The knight is headed for f3, c4 or e5, and White keeps every option of regaining e4 or gambitting it properly. } 4... Nf6 { Natural development, 66 percent of games. 4...f5, trying to keep the pawn, is Chapter 4. } 5. f3 { The gambit proper. White opens the f-file at the cost of a pawn: after the recapture on f3 every white piece flows toward the black king. Stockfish defends to -0.8 with perfect play, but humans never manage it - White scores 52-53 percent at every rating band from 1400 to 2500. } 5... exf3 { 80 percent of players accept. The engine's stubborn 5...Nd5 is covered in Chapter 3. } 6. Ngxf3 { The right recapture: the d2-knight keeps its routes to c4, e5 and e4. } 6... Be7 { Black's most popular setup (32 percent). The alternatives 6...Bd6, 6...b6, 6...Bb4 and 6...Nd5 are Chapter 3. } 7. Bd3 { Aimed at h7. White's attack now plays itself: O-O, Qe1-h4, Ne5, Bg5, rooks to the half-open f-file. } 7... O-O 8. O-O { Both sides castle short - but only one king will feel a breeze. The lift Qe1-h4 is coming. } 8... Nbd7 9. Qe1 { The signature regrouping: the queen swings to h4. White scores 58 percent from this position. } 9... c5 { The thematic French break, but it arrives too late: lines open while White's pieces are already pointed at the king. Stockfish +1.1. } 10. Qh4 cxd4 11. Bg5 g6 12. Rae1 { Calm: with the a1-rook joining, every white piece aims at e6 and f7. The engine continues 12...Nb6 13.Ne5 keeping +1.1. } *
+
+[Event "Alapin Gambit - Ch 1: Accepted, 6...Be7 main line - line 8/14"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 1"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 { The Alapin Gambit. White develops a piece and dares Black to grab e4. Across 281,609 Lichess blitz/rapid games White scores 52 percent from here, and the positions are far easier to play for White: every plan is the same attacking plan. } 3... dxe4 { Taken in 61 percent of games - 77 percent at 2200+. The declines 3...Nf6 and 3...c5 are Chapters 5 and 6. } 4. Nd2 { More accurate than the popular immediate 4.f3, and Stockfish agrees (-0.4, its top choice). The knight is headed for f3, c4 or e5, and White keeps every option of regaining e4 or gambitting it properly. } 4... Nf6 { Natural development, 66 percent of games. 4...f5, trying to keep the pawn, is Chapter 4. } 5. f3 { The gambit proper. White opens the f-file at the cost of a pawn: after the recapture on f3 every white piece flows toward the black king. Stockfish defends to -0.8 with perfect play, but humans never manage it - White scores 52-53 percent at every rating band from 1400 to 2500. } 5... exf3 { 80 percent of players accept. The engine's stubborn 5...Nd5 is covered in Chapter 3. } 6. Ngxf3 { The right recapture: the d2-knight keeps its routes to c4, e5 and e4. } 6... Be7 { Black's most popular setup (32 percent). The alternatives 6...Bd6, 6...b6, 6...Bb4 and 6...Nd5 are Chapter 3. } 7. Bd3 { Aimed at h7. White's attack now plays itself: O-O, Qe1-h4, Ne5, Bg5, rooks to the half-open f-file. } 7... O-O 8. O-O { Both sides castle short - but only one king will feel a breeze. The lift Qe1-h4 is coming. } 8... Nbd7 9. Qe1 { The signature regrouping: the queen swings to h4. White scores 58 percent from this position. } 9... c5 { The thematic French break, but it arrives too late: lines open while White's pieces are already pointed at the king. Stockfish +1.1. } 10. Qh4 g6 11. Bg5 { +1.0, and White scores 78 percent: the pin is miserable to face with the dark squares this soft. } *
+
+[Event "Alapin Gambit - Ch 1: Accepted, 6...Be7 main line - line 9/14"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 1"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 { The Alapin Gambit. White develops a piece and dares Black to grab e4. Across 281,609 Lichess blitz/rapid games White scores 52 percent from here, and the positions are far easier to play for White: every plan is the same attacking plan. } 3... dxe4 { Taken in 61 percent of games - 77 percent at 2200+. The declines 3...Nf6 and 3...c5 are Chapters 5 and 6. } 4. Nd2 { More accurate than the popular immediate 4.f3, and Stockfish agrees (-0.4, its top choice). The knight is headed for f3, c4 or e5, and White keeps every option of regaining e4 or gambitting it properly. } 4... Nf6 { Natural development, 66 percent of games. 4...f5, trying to keep the pawn, is Chapter 4. } 5. f3 { The gambit proper. White opens the f-file at the cost of a pawn: after the recapture on f3 every white piece flows toward the black king. Stockfish defends to -0.8 with perfect play, but humans never manage it - White scores 52-53 percent at every rating band from 1400 to 2500. } 5... exf3 { 80 percent of players accept. The engine's stubborn 5...Nd5 is covered in Chapter 3. } 6. Ngxf3 { The right recapture: the d2-knight keeps its routes to c4, e5 and e4. } 6... Be7 { Black's most popular setup (32 percent). The alternatives 6...Bd6, 6...b6, 6...Bb4 and 6...Nd5 are Chapter 3. } 7. Bd3 { Aimed at h7. White's attack now plays itself: O-O, Qe1-h4, Ne5, Bg5, rooks to the half-open f-file. } 7... O-O 8. O-O { Both sides castle short - but only one king will feel a breeze. The lift Qe1-h4 is coming. } 8... Nbd7 9. Qe1 { The signature regrouping: the queen swings to h4. White scores 58 percent from this position. } 9... b6 10. Qh4 Bb7 11. Ne5 { The octopus lands. Black is already busted on the engine: the f7/g6/h7 complex cannot be held forever. } 11... g6 12. Bg5 Nxe5 13. dxe5 Nd5 14. Ne4 { The d2-knight joins the hunt via e4, eyeing f6 and d6. } 14... Bxg5 15. Nxg5 h5 16. Be4 { +2.5. A pawn down, utterly winning: the dark squares around the king are ruined and every white piece participates. White scores 80 percent from here. } *
+
+[Event "Alapin Gambit - Ch 1: Accepted, 6...Be7 main line - line 10/14"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 1"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 { The Alapin Gambit. White develops a piece and dares Black to grab e4. Across 281,609 Lichess blitz/rapid games White scores 52 percent from here, and the positions are far easier to play for White: every plan is the same attacking plan. } 3... dxe4 { Taken in 61 percent of games - 77 percent at 2200+. The declines 3...Nf6 and 3...c5 are Chapters 5 and 6. } 4. Nd2 { More accurate than the popular immediate 4.f3, and Stockfish agrees (-0.4, its top choice). The knight is headed for f3, c4 or e5, and White keeps every option of regaining e4 or gambitting it properly. } 4... Nf6 { Natural development, 66 percent of games. 4...f5, trying to keep the pawn, is Chapter 4. } 5. f3 { The gambit proper. White opens the f-file at the cost of a pawn: after the recapture on f3 every white piece flows toward the black king. Stockfish defends to -0.8 with perfect play, but humans never manage it - White scores 52-53 percent at every rating band from 1400 to 2500. } 5... exf3 { 80 percent of players accept. The engine's stubborn 5...Nd5 is covered in Chapter 3. } 6. Ngxf3 { The right recapture: the d2-knight keeps its routes to c4, e5 and e4. } 6... Be7 { Black's most popular setup (32 percent). The alternatives 6...Bd6, 6...b6, 6...Bb4 and 6...Nd5 are Chapter 3. } 7. Bd3 { Aimed at h7. White's attack now plays itself: O-O, Qe1-h4, Ne5, Bg5, rooks to the half-open f-file. } 7... O-O 8. O-O { Both sides castle short - but only one king will feel a breeze. The lift Qe1-h4 is coming. } 8... Nbd7 9. Qe1 { The signature regrouping: the queen swings to h4. White scores 58 percent from this position. } 9... b6 10. Qh4 g6 { Stopping the queen's entry on h7 - but the dark squares pay the price. } 11. Ng5 h5 12. Nxe6 { The knight forks d8 and f8. And the defensive try 12...fxe6 fails to 13.Bxg6: Stockfish +2.7 with the king ripped open. } *
+
+[Event "Alapin Gambit - Ch 1: Accepted, 6...Be7 main line - line 11/14"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 1"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 { The Alapin Gambit. White develops a piece and dares Black to grab e4. Across 281,609 Lichess blitz/rapid games White scores 52 percent from here, and the positions are far easier to play for White: every plan is the same attacking plan. } 3... dxe4 { Taken in 61 percent of games - 77 percent at 2200+. The declines 3...Nf6 and 3...c5 are Chapters 5 and 6. } 4. Nd2 { More accurate than the popular immediate 4.f3, and Stockfish agrees (-0.4, its top choice). The knight is headed for f3, c4 or e5, and White keeps every option of regaining e4 or gambitting it properly. } 4... Nf6 { Natural development, 66 percent of games. 4...f5, trying to keep the pawn, is Chapter 4. } 5. f3 { The gambit proper. White opens the f-file at the cost of a pawn: after the recapture on f3 every white piece flows toward the black king. Stockfish defends to -0.8 with perfect play, but humans never manage it - White scores 52-53 percent at every rating band from 1400 to 2500. } 5... exf3 { 80 percent of players accept. The engine's stubborn 5...Nd5 is covered in Chapter 3. } 6. Ngxf3 { The right recapture: the d2-knight keeps its routes to c4, e5 and e4. } 6... Be7 { Black's most popular setup (32 percent). The alternatives 6...Bd6, 6...b6, 6...Bb4 and 6...Nd5 are Chapter 3. } 7. Bd3 { Aimed at h7. White's attack now plays itself: O-O, Qe1-h4, Ne5, Bg5, rooks to the half-open f-file. } 7... O-O 8. O-O { Both sides castle short - but only one king will feel a breeze. The lift Qe1-h4 is coming. } 8... Nbd7 9. Qe1 { The signature regrouping: the queen swings to h4. White scores 58 percent from this position. } 9... Re8 10. Qh4 Nf8 { Black has arranged the classical defensive setup - and Stockfish already shows +2.6, because f7 and h7 still cannot both be covered. } 11. Ng5 h5 12. Ndf3 { Threatening to win on h5: the engine line runs 12...N6h7 13.Bxh7+ Nxh7 14.Qxh5 with +2.8 and the attack rolling on. } *
+
+[Event "Alapin Gambit - Ch 1: Accepted, 6...Be7 main line - line 12/14"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 1"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 { The Alapin Gambit. White develops a piece and dares Black to grab e4. Across 281,609 Lichess blitz/rapid games White scores 52 percent from here, and the positions are far easier to play for White: every plan is the same attacking plan. } 3... dxe4 { Taken in 61 percent of games - 77 percent at 2200+. The declines 3...Nf6 and 3...c5 are Chapters 5 and 6. } 4. Nd2 { More accurate than the popular immediate 4.f3, and Stockfish agrees (-0.4, its top choice). The knight is headed for f3, c4 or e5, and White keeps every option of regaining e4 or gambitting it properly. } 4... Nf6 { Natural development, 66 percent of games. 4...f5, trying to keep the pawn, is Chapter 4. } 5. f3 { The gambit proper. White opens the f-file at the cost of a pawn: after the recapture on f3 every white piece flows toward the black king. Stockfish defends to -0.8 with perfect play, but humans never manage it - White scores 52-53 percent at every rating band from 1400 to 2500. } 5... exf3 { 80 percent of players accept. The engine's stubborn 5...Nd5 is covered in Chapter 3. } 6. Ngxf3 { The right recapture: the d2-knight keeps its routes to c4, e5 and e4. } 6... Be7 { Black's most popular setup (32 percent). The alternatives 6...Bd6, 6...b6, 6...Bb4 and 6...Nd5 are Chapter 3. } 7. Bd3 { Aimed at h7. White's attack now plays itself: O-O, Qe1-h4, Ne5, Bg5, rooks to the half-open f-file. } 7... O-O 8. O-O { Both sides castle short - but only one king will feel a breeze. The lift Qe1-h4 is coming. } 8... Nc6 9. c3 { Blunting ...Nb4 against the d3-bishop and shoring up d4. The c6-knight now bites on granite. } 9... Nd5 10. Bf2 { The bishop steps out of the trade and keeps the dark-square grip. } 10... Nf4 11. Bc2 { Keeping the bishop pair trained on the kingside; g3 will evict the knight next. The engine calls it equal - the practical chances are all White's. } *
+
+[Event "Alapin Gambit - Ch 1: Accepted, 6...Be7 main line - line 13/14"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 1"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 { The Alapin Gambit. White develops a piece and dares Black to grab e4. Across 281,609 Lichess blitz/rapid games White scores 52 percent from here, and the positions are far easier to play for White: every plan is the same attacking plan. } 3... dxe4 { Taken in 61 percent of games - 77 percent at 2200+. The declines 3...Nf6 and 3...c5 are Chapters 5 and 6. } 4. Nd2 { More accurate than the popular immediate 4.f3, and Stockfish agrees (-0.4, its top choice). The knight is headed for f3, c4 or e5, and White keeps every option of regaining e4 or gambitting it properly. } 4... Nf6 { Natural development, 66 percent of games. 4...f5, trying to keep the pawn, is Chapter 4. } 5. f3 { The gambit proper. White opens the f-file at the cost of a pawn: after the recapture on f3 every white piece flows toward the black king. Stockfish defends to -0.8 with perfect play, but humans never manage it - White scores 52-53 percent at every rating band from 1400 to 2500. } 5... exf3 { 80 percent of players accept. The engine's stubborn 5...Nd5 is covered in Chapter 3. } 6. Ngxf3 { The right recapture: the d2-knight keeps its routes to c4, e5 and e4. } 6... Be7 { Black's most popular setup (32 percent). The alternatives 6...Bd6, 6...b6, 6...Bb4 and 6...Nd5 are Chapter 3. } 7. Bd3 { Aimed at h7. White's attack now plays itself: O-O, Qe1-h4, Ne5, Bg5, rooks to the half-open f-file. } 7... O-O 8. O-O { Both sides castle short - but only one king will feel a breeze. The lift Qe1-h4 is coming. } 8... Nc6 9. c3 { Blunting ...Nb4 against the d3-bishop and shoring up d4. The c6-knight now bites on granite. } 9... Nd5 10. Bf2 { The bishop steps out of the trade and keeps the dark-square grip. } 10... Bf6 11. Qe1 { The lift proceeds regardless - +0.3 and a 70 percent practical score. White will follow with Qh4 or Ne4 hitting the f6-bishop. } *
+
+[Event "Alapin Gambit - Ch 1: Accepted, 6...Be7 main line - line 14/14"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 1"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 { The Alapin Gambit. White develops a piece and dares Black to grab e4. Across 281,609 Lichess blitz/rapid games White scores 52 percent from here, and the positions are far easier to play for White: every plan is the same attacking plan. } 3... dxe4 { Taken in 61 percent of games - 77 percent at 2200+. The declines 3...Nf6 and 3...c5 are Chapters 5 and 6. } 4. Nd2 { More accurate than the popular immediate 4.f3, and Stockfish agrees (-0.4, its top choice). The knight is headed for f3, c4 or e5, and White keeps every option of regaining e4 or gambitting it properly. } 4... Nf6 { Natural development, 66 percent of games. 4...f5, trying to keep the pawn, is Chapter 4. } 5. f3 { The gambit proper. White opens the f-file at the cost of a pawn: after the recapture on f3 every white piece flows toward the black king. Stockfish defends to -0.8 with perfect play, but humans never manage it - White scores 52-53 percent at every rating band from 1400 to 2500. } 5... exf3 { 80 percent of players accept. The engine's stubborn 5...Nd5 is covered in Chapter 3. } 6. Ngxf3 { The right recapture: the d2-knight keeps its routes to c4, e5 and e4. } 6... Be7 { Black's most popular setup (32 percent). The alternatives 6...Bd6, 6...b6, 6...Bb4 and 6...Nd5 are Chapter 3. } 7. Bd3 { Aimed at h7. White's attack now plays itself: O-O, Qe1-h4, Ne5, Bg5, rooks to the half-open f-file. } 7... O-O 8. O-O { Both sides castle short - but only one king will feel a breeze. The lift Qe1-h4 is coming. } 8... Nc6 9. c3 { Blunting ...Nb4 against the d3-bishop and shoring up d4. The c6-knight now bites on granite. } 9... b6 10. Qe2 { With a knight ready to land on d5, the queen takes the e2 square instead: Rae1 and Ne5 come next, and White keeps full attacking flexibility. } *
+
+[Event "Alapin Gambit - Ch 2: Accepted, 6...Be7 with 7...Nd5 or 7...b6 - line 1/8"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
 [White "Repertoire"]
 [Black "Chapter 2"]
 [Result "*"]
 
-1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 Nf6 5. f3 exf3 6. Ngxf3 Be7 7. Bd3 Nd5 {Stockfish's defence: hit the e3-bishop before castling. Rare below 2000, but the critical test of the gambit.} (7... b6 {The fianchetto plan - met by a change of address for the white king.} 8. Qe2 {Against ...b6 White castles long: the b7-bishop will stare at a well-defended knight while the h-pawn runs at the black king.} Bb7 9. O-O-O Nbd7 (9... O-O 10. h4 {The point of opposite castling: every h-pawn step is a developing move. Engine -0.4, but White scores fine here and the play is one-directional.} Nbd7 11. Rhf1 Rc8 12. Ne5 {Standing tall on e5: 12...Nxe5 13.dxe5 would hit the f6-knight and open the d-file toward d7. A classic attacking tableau.}) (9... Nc6 10. a3 {Quietly denying ...Nb4 forever. White continues Ne5, h4-h5 and g4 with a straightforward initiative.}) 10. Ne5 {Occupying the hole: if 10...Nxe5 11.dxe5 the f6-knight is hit and White gains another tempo.} O-O 11. Rhf1 c5 12. h4 {The storm begins. Engine: roughly -0.3 for the pawn, but practice favours White heavily - this position scores 60 percent.}) 8. Qe2 {Calm: let Black take on e3. The recapture strengthens White's centre control, and the d1-square is freed for long castling.} Nxe3 9. Qxe3 O-O (9... Nd7 10. O-O-O Nf6 (10... c5 {The engine's best try: counterplay before White's attack exists.} 11. Rhe1 {Centralising with threats against e6; engine -0.5, the gambit's honest price, but Black must keep finding accurate moves with less space.}) 11. Ne5 {The familiar clamp. White continues Qf3 or h4 next; equal by engine, far easier for White.}) (9... Nc6 10. c3 O-O 11. O-O-O {Opposite kings again: h4, g4 and Ne5 write the plan by themselves. From here White scores 64 percent.}) 10. O-O-O {Opposite-side castling - the h-pawn becomes a battering ram and every tempo matters.} Nd7 (10... Nc6 11. c3 Bf6 {Eyeing d4 - but the bishop becomes a target.} 12. g4 {+1.7. The storm hits first:} e5 13. g5 {and the bishop is pushed home while the kingside opens. White wins the race.}) 11. h4 {Engine -0.3; humans score 61 percent for White. Plan: h5, Ng5 or g4-g5, with Rhf1 always useful. Black's extra pawn is a spectator.} *
+1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 Nf6 5. f3 exf3 6. Ngxf3 Be7 7. Bd3 Nd5 { Stockfish's defence: hit the e3-bishop before castling. Rare below 2000, but the critical test of the gambit. } 8. Qe2 { Calm: let Black take on e3. The recapture strengthens White's centre control, and the d1-square is freed for long castling. } 8... Nxe3 9. Qxe3 O-O 10. O-O-O { Opposite-side castling - the h-pawn becomes a battering ram and every tempo matters. } 10... Nd7 11. h4 { Engine -0.3; humans score 61 percent for White. Plan: h5, Ng5 or g4-g5, with Rhf1 always useful. Black's extra pawn is a spectator. } *
 
-[Event "Alapin Gambit - Ch 3: Accepted, 6th-move alternatives and 5...Nd5"]
+[Event "Alapin Gambit - Ch 2: Accepted, 6...Be7 with 7...Nd5 or 7...b6 - line 2/8"]
 [Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 2"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 Nf6 5. f3 exf3 6. Ngxf3 Be7 7. Bd3 Nd5 { Stockfish's defence: hit the e3-bishop before castling. Rare below 2000, but the critical test of the gambit. } 8. Qe2 { Calm: let Black take on e3. The recapture strengthens White's centre control, and the d1-square is freed for long castling. } 8... Nxe3 9. Qxe3 O-O 10. O-O-O { Opposite-side castling - the h-pawn becomes a battering ram and every tempo matters. } 10... Nc6 11. c3 Bf6 { Eyeing d4 - but the bishop becomes a target. } 12. g4 { +1.7. The storm hits first: } 12... e5 13. g5 { and the bishop is pushed home while the kingside opens. White wins the race. } *
+
+[Event "Alapin Gambit - Ch 2: Accepted, 6...Be7 with 7...Nd5 or 7...b6 - line 3/8"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 2"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 Nf6 5. f3 exf3 6. Ngxf3 Be7 7. Bd3 Nd5 { Stockfish's defence: hit the e3-bishop before castling. Rare below 2000, but the critical test of the gambit. } 8. Qe2 { Calm: let Black take on e3. The recapture strengthens White's centre control, and the d1-square is freed for long castling. } 8... Nxe3 9. Qxe3 Nd7 10. O-O-O Nf6 11. Ne5 { The familiar clamp. White continues Qf3 or h4 next; equal by engine, far easier for White. } *
+
+[Event "Alapin Gambit - Ch 2: Accepted, 6...Be7 with 7...Nd5 or 7...b6 - line 4/8"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 2"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 Nf6 5. f3 exf3 6. Ngxf3 Be7 7. Bd3 Nd5 { Stockfish's defence: hit the e3-bishop before castling. Rare below 2000, but the critical test of the gambit. } 8. Qe2 { Calm: let Black take on e3. The recapture strengthens White's centre control, and the d1-square is freed for long castling. } 8... Nxe3 9. Qxe3 Nd7 10. O-O-O c5 { The engine's best try: counterplay before White's attack exists. } 11. Rhe1 { Centralising with threats against e6; engine -0.5, the gambit's honest price, but Black must keep finding accurate moves with less space. } *
+
+[Event "Alapin Gambit - Ch 2: Accepted, 6...Be7 with 7...Nd5 or 7...b6 - line 5/8"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 2"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 Nf6 5. f3 exf3 6. Ngxf3 Be7 7. Bd3 Nd5 { Stockfish's defence: hit the e3-bishop before castling. Rare below 2000, but the critical test of the gambit. } 8. Qe2 { Calm: let Black take on e3. The recapture strengthens White's centre control, and the d1-square is freed for long castling. } 8... Nxe3 9. Qxe3 Nc6 10. c3 O-O 11. O-O-O { Opposite kings again: h4, g4 and Ne5 write the plan by themselves. From here White scores 64 percent. } *
+
+[Event "Alapin Gambit - Ch 2: Accepted, 6...Be7 with 7...Nd5 or 7...b6 - line 6/8"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 2"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 Nf6 5. f3 exf3 6. Ngxf3 Be7 7. Bd3 b6 { The fianchetto plan - met by a change of address for the white king. } 8. Qe2 { Against ...b6 White castles long: the b7-bishop will stare at a well-defended knight while the h-pawn runs at the black king. } 8... Bb7 9. O-O-O Nbd7 10. Ne5 { Occupying the hole: if 10...Nxe5 11.dxe5 the f6-knight is hit and White gains another tempo. } 10... O-O 11. Rhf1 c5 12. h4 { The storm begins. Engine: roughly -0.3 for the pawn, but practice favours White heavily - this position scores 60 percent. } *
+
+[Event "Alapin Gambit - Ch 2: Accepted, 6...Be7 with 7...Nd5 or 7...b6 - line 7/8"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 2"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 Nf6 5. f3 exf3 6. Ngxf3 Be7 7. Bd3 b6 { The fianchetto plan - met by a change of address for the white king. } 8. Qe2 { Against ...b6 White castles long: the b7-bishop will stare at a well-defended knight while the h-pawn runs at the black king. } 8... Bb7 9. O-O-O O-O 10. h4 { The point of opposite castling: every h-pawn step is a developing move. Engine -0.4, but White scores fine here and the play is one-directional. } 10... Nbd7 11. Rhf1 Rc8 12. Ne5 { Standing tall on e5: 12...Nxe5 13.dxe5 would hit the f6-knight and open the d-file toward d7. A classic attacking tableau. } *
+
+[Event "Alapin Gambit - Ch 2: Accepted, 6...Be7 with 7...Nd5 or 7...b6 - line 8/8"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 2"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 Nf6 5. f3 exf3 6. Ngxf3 Be7 7. Bd3 b6 { The fianchetto plan - met by a change of address for the white king. } 8. Qe2 { Against ...b6 White castles long: the b7-bishop will stare at a well-defended knight while the h-pawn runs at the black king. } 8... Bb7 9. O-O-O Nc6 10. a3 { Quietly denying ...Nb4 forever. White continues Ne5, h4-h5 and g4 with a straightforward initiative. } *
+
+[Event "Alapin Gambit - Ch 3: Accepted, 6th-move alternatives and 5...Nd5 - line 1/18"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
 [White "Repertoire"]
 [Black "Chapter 3"]
 [Result "*"]
 
-1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 Nf6 5. f3 exf3 (5... Nd5 {The cold-blooded decline, and the higher rated the opponent, the likelier you face it: 3 percent at club level, 14 percent at 2200+. Black hits e3 and refuses to open the f-file.} 6. Qe2 {The repertoire recipe against every ...Nd5: protect nothing, prepare O-O-O, recapture on e3 with the queen.} Nxe3 (6... exf3 7. Ngxf3 Be7 (7... Nxe3 8. Qxe3 Nd7 9. O-O-O {The standard picture: develop with the long castle, then Ne5, h4, Bd3 or Bc4 as Black shows his hand. Engine -0.4: the honest price of the gambit, with all the play.}) 8. O-O-O O-O 9. Bf2 {Tucking the bishop away from ...Nxe3 once and for all. With opposite kings, White attacks with h4-h5 and g4; this position has scored 100 percent in the explorer sample.}) (6... Nc6 7. c3 {Solidifying d4 first.} exf3 8. Ngxf3 Nxe3 9. Qxe3 {Note Black's best here is the modest 9...Ne7 - after the natural 9...Be7 Stockfish already prefers White (+0.3): development and the open f-file outweigh the pawn.}) 7. Qxe3 exf3 8. Ngxf3 Be7 9. O-O-O {White is down a pawn with a -0.6 engine eval and a 52 percent practical score: the d-file rook, Ne5 and h4 give a full initiative. Both recapture orders land in this same position - learn it once.}) 6. Ngxf3 Bd6 {Second most popular (20 percent): more active than e7 - but the bishop abandons the kingside dark squares, and several traps below show why that matters.} (6... b6 7. Ne5 {Immediately exploiting the slow setup.} Bb7 8. Bb5+ {Forcing the block:} c6 9. Bd3 {and the b7-bishop now stares at its own c6-pawn. White has gained the e5-outpost and a tempo-free attack; 73 percent score from here.}) (6... Bb4 {A club-player favourite - 12 percent of games at 1400-1600 - and one of the best-scoring positions in the whole course for White: 64 percent.} 7. c3 {Putting the question immediately.} Be7 (7... Ba5 {Trying to keep the pin that no longer exists.} 8. Nc4 {+1.2. Hitting the bishop again: after 8...c5 9.Qa4+ Nc6 10.Nxa5 White simply wins the bishop pair and keeps the initiative.}) 8. Bd3 {The bishop returned home at the cost of two tempi - White has a free version of the main attack: O-O, Qe1-h4, Ne5. (60 percent score.)}) (6... Nc6 {Blocking the c-pawn to develop fast.} 7. Bd3 {Develop and ask the knight what it is doing: c3 next blunts it, and the standard O-O, Qe1-h4 machinery follows unchanged. Engine -0.6, White 55 percent in practice.}) (6... Nd5 7. Qe2 {The same medicine as always against ...Nd5.} Nxe3 (7... Be7 8. O-O-O O-O 9. Bf2 {Sidestep, castle long, attack. Black's setup makes no real threat.}) 8. Qxe3 Be7 9. O-O-O {Full compensation in practice: Ne5, Bd3 or Bc4, h4. White scores 52 percent; the engine's -0.5 never tells in human games.}) 7. Bd3 O-O (7... b6 8. O-O Bb7 9. Qe1 Nbd7 (9... O-O {Castling straight into it - with the bishop on d6 this is already lost.} 10. Qh4 {+2.7. The difference from the 6...Be7 lines: there is no ...Bxg5 defence. The engine line 10...Nbd7 11.Bg5 h6 12.Bxh6 crashes through at once.}) 10. Rd1 {The a1-rook supports d4 and x-rays the d6-bishop. White continues Qh4 and Ne5/Bg5 at leisure.}) (7... Nc6 8. O-O O-O (8... Bd7 9. c3 {Quiet consolidation: d4 is safe, so Qe1-h4 and Ne5 follow. Black's pieces step on each other.}) 9. c3 e5 {Black's cleanest equalising try in the 6...Bd6 complex.} (9... Re8 {Abandoning f7 with the f-file loaded - immediately decisive.} 10. Ng5 {+4.8. The threats on f7 and h7 cannot both be met: the engine gives 10...Bd7 11.Rxf6 Qxf6 12.Bxh7+ Kf8 13.Qh5 with a mating attack.}) 10. Ng5 {Keeping the pieces on and asking about f7 and h7 before Black consolidates. Objectively balanced - practically uncomfortable: 10...exd4 runs into Qh5-ideas, hence Black's score here stays modest.}) 8. Qe2 {Against the d6-setup the queen prefers e2: White keeps both castling options and the e-file. Watch how often O-O-O appears below.} b6 (8... Nbd7 9. O-O-O c5 10. Rhf1 {Full mobilisation before any commitment: from here White scores 71 percent - sacrifices on f6/f7 and the g4-g5 push are both in the air.}) (8... Nc6 9. c3 e5 {Again the freeing break - and again playable for Black.} 10. dxe5 {Simplest. After 10...Nxe5 11.Nxe5 Bxe5 White continues O-O-O with quick rook pressure; the position is balanced, so play it with energy - the structure and lead in development still favour the better-prepared side.}) 9. O-O-O Bb7 10. Bg5 {Opposite kings, pin on f6, h4 next; the engine calls it equal and the score sheet says 61 percent for White. The gambit in its purest practical form.} *
+1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 Nf6 5. f3 exf3 6. Ngxf3 Bd6 { Second most popular (20 percent): more active than e7 - but the bishop abandons the kingside dark squares, and several traps below show why that matters. } 7. Bd3 O-O 8. Qe2 { Against the d6-setup the queen prefers e2: White keeps both castling options and the e-file. Watch how often O-O-O appears below. } 8... b6 9. O-O-O Bb7 10. Bg5 { Opposite kings, pin on f6, h4 next; the engine calls it equal and the score sheet says 61 percent for White. The gambit in its purest practical form. } *
 
-[Event "Alapin Gambit - Ch 4: 4...f5, clinging to the pawn"]
+[Event "Alapin Gambit - Ch 3: Accepted, 6th-move alternatives and 5...Nd5 - line 2/18"]
 [Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 3"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 Nf6 5. f3 exf3 6. Ngxf3 Bd6 { Second most popular (20 percent): more active than e7 - but the bishop abandons the kingside dark squares, and several traps below show why that matters. } 7. Bd3 O-O 8. Qe2 { Against the d6-setup the queen prefers e2: White keeps both castling options and the e-file. Watch how often O-O-O appears below. } 8... Nbd7 9. O-O-O c5 10. Rhf1 { Full mobilisation before any commitment: from here White scores 71 percent - sacrifices on f6/f7 and the g4-g5 push are both in the air. } *
+
+[Event "Alapin Gambit - Ch 3: Accepted, 6th-move alternatives and 5...Nd5 - line 3/18"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 3"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 Nf6 5. f3 exf3 6. Ngxf3 Bd6 { Second most popular (20 percent): more active than e7 - but the bishop abandons the kingside dark squares, and several traps below show why that matters. } 7. Bd3 O-O 8. Qe2 { Against the d6-setup the queen prefers e2: White keeps both castling options and the e-file. Watch how often O-O-O appears below. } 8... Nc6 9. c3 e5 { Again the freeing break - and again playable for Black. } 10. dxe5 { Simplest. After 10...Nxe5 11.Nxe5 Bxe5 White continues O-O-O with quick rook pressure; the position is balanced, so play it with energy - the structure and lead in development still favour the better-prepared side. } *
+
+[Event "Alapin Gambit - Ch 3: Accepted, 6th-move alternatives and 5...Nd5 - line 4/18"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 3"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 Nf6 5. f3 exf3 6. Ngxf3 Bd6 { Second most popular (20 percent): more active than e7 - but the bishop abandons the kingside dark squares, and several traps below show why that matters. } 7. Bd3 b6 8. O-O Bb7 9. Qe1 Nbd7 10. Rd1 { The a1-rook supports d4 and x-rays the d6-bishop. White continues Qh4 and Ne5/Bg5 at leisure. } *
+
+[Event "Alapin Gambit - Ch 3: Accepted, 6th-move alternatives and 5...Nd5 - line 5/18"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 3"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 Nf6 5. f3 exf3 6. Ngxf3 Bd6 { Second most popular (20 percent): more active than e7 - but the bishop abandons the kingside dark squares, and several traps below show why that matters. } 7. Bd3 b6 8. O-O Bb7 9. Qe1 O-O { Castling straight into it - with the bishop on d6 this is already lost. } 10. Qh4 { +2.7. The difference from the 6...Be7 lines: there is no ...Bxg5 defence. The engine line 10...Nbd7 11.Bg5 h6 12.Bxh6 crashes through at once. } *
+
+[Event "Alapin Gambit - Ch 3: Accepted, 6th-move alternatives and 5...Nd5 - line 6/18"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 3"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 Nf6 5. f3 exf3 6. Ngxf3 Bd6 { Second most popular (20 percent): more active than e7 - but the bishop abandons the kingside dark squares, and several traps below show why that matters. } 7. Bd3 Nc6 8. O-O O-O 9. c3 e5 { Black's cleanest equalising try in the 6...Bd6 complex. } 10. Ng5 { Keeping the pieces on and asking about f7 and h7 before Black consolidates. Objectively balanced - practically uncomfortable: 10...exd4 runs into Qh5-ideas, hence Black's score here stays modest. } *
+
+[Event "Alapin Gambit - Ch 3: Accepted, 6th-move alternatives and 5...Nd5 - line 7/18"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 3"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 Nf6 5. f3 exf3 6. Ngxf3 Bd6 { Second most popular (20 percent): more active than e7 - but the bishop abandons the kingside dark squares, and several traps below show why that matters. } 7. Bd3 Nc6 8. O-O O-O 9. c3 Re8 { Abandoning f7 with the f-file loaded - immediately decisive. } 10. Ng5 { +4.8. The threats on f7 and h7 cannot both be met: the engine gives 10...Bd7 11.Rxf6 Qxf6 12.Bxh7+ Kf8 13.Qh5 with a mating attack. } *
+
+[Event "Alapin Gambit - Ch 3: Accepted, 6th-move alternatives and 5...Nd5 - line 8/18"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 3"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 Nf6 5. f3 exf3 6. Ngxf3 Bd6 { Second most popular (20 percent): more active than e7 - but the bishop abandons the kingside dark squares, and several traps below show why that matters. } 7. Bd3 Nc6 8. O-O Bd7 9. c3 { Quiet consolidation: d4 is safe, so Qe1-h4 and Ne5 follow. Black's pieces step on each other. } *
+
+[Event "Alapin Gambit - Ch 3: Accepted, 6th-move alternatives and 5...Nd5 - line 9/18"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 3"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 Nf6 5. f3 exf3 6. Ngxf3 b6 7. Ne5 { Immediately exploiting the slow setup. } 7... Bb7 8. Bb5+ { Forcing the block: } 8... c6 9. Bd3 { and the b7-bishop now stares at its own c6-pawn. White has gained the e5-outpost and a tempo-free attack; 73 percent score from here. } *
+
+[Event "Alapin Gambit - Ch 3: Accepted, 6th-move alternatives and 5...Nd5 - line 10/18"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 3"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 Nf6 5. f3 exf3 6. Ngxf3 Bb4 { A club-player favourite - 12 percent of games at 1400-1600 - and one of the best-scoring positions in the whole course for White: 64 percent. } 7. c3 { Putting the question immediately. } 7... Be7 8. Bd3 { The bishop returned home at the cost of two tempi - White has a free version of the main attack: O-O, Qe1-h4, Ne5. (60 percent score.) } *
+
+[Event "Alapin Gambit - Ch 3: Accepted, 6th-move alternatives and 5...Nd5 - line 11/18"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 3"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 Nf6 5. f3 exf3 6. Ngxf3 Bb4 { A club-player favourite - 12 percent of games at 1400-1600 - and one of the best-scoring positions in the whole course for White: 64 percent. } 7. c3 { Putting the question immediately. } 7... Ba5 { Trying to keep the pin that no longer exists. } 8. Nc4 { +1.2. Hitting the bishop again: after 8...c5 9.Qa4+ Nc6 10.Nxa5 White simply wins the bishop pair and keeps the initiative. } *
+
+[Event "Alapin Gambit - Ch 3: Accepted, 6th-move alternatives and 5...Nd5 - line 12/18"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 3"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 Nf6 5. f3 exf3 6. Ngxf3 Nc6 { Blocking the c-pawn to develop fast. } 7. Bd3 { Develop and ask the knight what it is doing: c3 next blunts it, and the standard O-O, Qe1-h4 machinery follows unchanged. Engine -0.6, White 55 percent in practice. } *
+
+[Event "Alapin Gambit - Ch 3: Accepted, 6th-move alternatives and 5...Nd5 - line 13/18"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 3"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 Nf6 5. f3 exf3 6. Ngxf3 Nd5 7. Qe2 { The same medicine as always against ...Nd5. } 7... Nxe3 8. Qxe3 Be7 9. O-O-O { Full compensation in practice: Ne5, Bd3 or Bc4, h4. White scores 52 percent; the engine's -0.5 never tells in human games. } *
+
+[Event "Alapin Gambit - Ch 3: Accepted, 6th-move alternatives and 5...Nd5 - line 14/18"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 3"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 Nf6 5. f3 exf3 6. Ngxf3 Nd5 7. Qe2 { The same medicine as always against ...Nd5. } 7... Be7 8. O-O-O O-O 9. Bf2 { Sidestep, castle long, attack. Black's setup makes no real threat. } *
+
+[Event "Alapin Gambit - Ch 3: Accepted, 6th-move alternatives and 5...Nd5 - line 15/18"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 3"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 Nf6 5. f3 Nd5 { The cold-blooded decline, and the higher rated the opponent, the likelier you face it: 3 percent at club level, 14 percent at 2200+. Black hits e3 and refuses to open the f-file. } 6. Qe2 { The repertoire recipe against every ...Nd5: protect nothing, prepare O-O-O, recapture on e3 with the queen. } 6... Nxe3 7. Qxe3 exf3 8. Ngxf3 Be7 9. O-O-O { White is down a pawn with a -0.6 engine eval and a 52 percent practical score: the d-file rook, Ne5 and h4 give a full initiative. Both recapture orders land in this same position - learn it once. } *
+
+[Event "Alapin Gambit - Ch 3: Accepted, 6th-move alternatives and 5...Nd5 - line 16/18"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 3"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 Nf6 5. f3 Nd5 { The cold-blooded decline, and the higher rated the opponent, the likelier you face it: 3 percent at club level, 14 percent at 2200+. Black hits e3 and refuses to open the f-file. } 6. Qe2 { The repertoire recipe against every ...Nd5: protect nothing, prepare O-O-O, recapture on e3 with the queen. } 6... exf3 7. Ngxf3 Be7 8. O-O-O O-O 9. Bf2 { Tucking the bishop away from ...Nxe3 once and for all. With opposite kings, White attacks with h4-h5 and g4; this position has scored 100 percent in the explorer sample. } *
+
+[Event "Alapin Gambit - Ch 3: Accepted, 6th-move alternatives and 5...Nd5 - line 17/18"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 3"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 Nf6 5. f3 Nd5 { The cold-blooded decline, and the higher rated the opponent, the likelier you face it: 3 percent at club level, 14 percent at 2200+. Black hits e3 and refuses to open the f-file. } 6. Qe2 { The repertoire recipe against every ...Nd5: protect nothing, prepare O-O-O, recapture on e3 with the queen. } 6... exf3 7. Ngxf3 Nxe3 8. Qxe3 Nd7 9. O-O-O { The standard picture: develop with the long castle, then Ne5, h4, Bd3 or Bc4 as Black shows his hand. Engine -0.4: the honest price of the gambit, with all the play. } *
+
+[Event "Alapin Gambit - Ch 3: Accepted, 6th-move alternatives and 5...Nd5 - line 18/18"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 3"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 Nf6 5. f3 Nd5 { The cold-blooded decline, and the higher rated the opponent, the likelier you face it: 3 percent at club level, 14 percent at 2200+. Black hits e3 and refuses to open the f-file. } 6. Qe2 { The repertoire recipe against every ...Nd5: protect nothing, prepare O-O-O, recapture on e3 with the queen. } 6... Nc6 7. c3 { Solidifying d4 first. } 7... exf3 8. Ngxf3 Nxe3 9. Qxe3 { Note Black's best here is the modest 9...Ne7 - after the natural 9...Be7 Stockfish already prefers White (+0.3): development and the open f-file outweigh the pawn. } *
+
+[Event "Alapin Gambit - Ch 4: 4...f5, clinging to the pawn - line 1/8"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
 [White "Repertoire"]
 [Black "Chapter 4"]
 [Result "*"]
 
-1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 f5 {The greedy try, 29 percent of games: Black keeps e4 at the price of weakening e6 and the a2-g8 diagonal - exactly where White's pieces want to go. From here the gambit is objectively sound: Stockfish reads equal or better for White everywhere.} 5. f3 {Insist. Either the f-file opens anyway or e4 falls.} exf3 {78 percent take again.} (5... Nf6 6. fxe4 fxe4 (6... Nxe4 {Played in a third of low-rated games - and refuted on the spot.} 7. Nxe4 fxe4 8. Qh5+ {The punishment for ...f5 in one move.} g6 9. Qe5 {Forking h8 and e4.} Rg8 10. Qxe4 {Material is level again, and compare the kings. Stockfish +0.8-+1.9; in practice White scores 59 percent and rising.} Nc6 (10... Bg7 {Naturally developing - and losing more: e6 cannot be defended.} 11. Bc4 {+3.6. The e6-pawn falls with the black king still in the centre.}) 11. Bc4 {+1.9. Pressure on e6 with the king stuck: White develops with threats on every move.}) 7. c3 {Solid: White will develop, castle and collect e4 at leisure - it cannot run away.} Bd6 (7... b6 8. Nh3 {+1.0. The knight reroutes via f4 or g5 straight at the weakened e6-pawn.}) 8. Bg5 {The annoying pin: 8...h6 9.Bxf6 Qxf6 and with the f5/e4 pawns loose and e6 soft, White regains everything with interest.}) 6. Ngxf3 {Everything from the accepted gambit, for free: f-file, development lead - and now e6 is weak too.} Nf6 7. Bc4 {The bishop switches diagonals to hit the new weakness. This is the structural difference from Chapters 1-3: e6 is the target now.} Bd6 (7... Nc6 {Stockfish's preference: cover e5 and fight for the centre.} 8. Qe2 Bd6 9. O-O-O {The full setup: pressure on e6 and the d-file, Bg5 and Rhe1 to come. White's score: 53 percent with all the fun.}) (7... c6 {Securing d5 - but blocking the queenside and ignoring development; a typical club mistake (10 percent of games).} 8. Qe2 Nd5 9. Bxd5 {Giving up the proud bishop to fix Black with a permanent weakness: after 9...cxd5 the e6-pawn is backward on a half-open file forever. Stockfish +1.3.}) 8. Qe2 O-O 9. O-O-O {Opposite kings with e6 in the crosshairs.} c6 (9... Nc6 10. Bg5 Re8 {Defending e6 laterally - too slow.} 11. c3 {+1.2, and a 100 percent score in the sample: White simply continues Ne5, h4 and Rhf1 while Black's counterplay never arrives.}) 10. Bg5 {+0.5 and a 66 percent practical score: the pin, Ne5, and h4 arrive while the e6-pawn ties Black down for the rest of the game.} *
+1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 f5 { The greedy try, 29 percent of games: Black keeps e4 at the price of weakening e6 and the a2-g8 diagonal - exactly where White's pieces want to go. From here the gambit is objectively sound: Stockfish reads equal or better for White everywhere. } 5. f3 { Insist. Either the f-file opens anyway or e4 falls. } 5... exf3 { 78 percent take again. } 6. Ngxf3 { Everything from the accepted gambit, for free: f-file, development lead - and now e6 is weak too. } 6... Nf6 7. Bc4 { The bishop switches diagonals to hit the new weakness. This is the structural difference from Chapters 1-3: e6 is the target now. } 7... Bd6 8. Qe2 O-O 9. O-O-O { Opposite kings with e6 in the crosshairs. } 9... c6 10. Bg5 { +0.5 and a 66 percent practical score: the pin, Ne5, and h4 arrive while the e6-pawn ties Black down for the rest of the game. } *
 
-[Event "Alapin Gambit - Ch 5: Declined with 3...Nf6"]
+[Event "Alapin Gambit - Ch 4: 4...f5, clinging to the pawn - line 2/8"]
 [Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 4"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 f5 { The greedy try, 29 percent of games: Black keeps e4 at the price of weakening e6 and the a2-g8 diagonal - exactly where White's pieces want to go. From here the gambit is objectively sound: Stockfish reads equal or better for White everywhere. } 5. f3 { Insist. Either the f-file opens anyway or e4 falls. } 5... exf3 { 78 percent take again. } 6. Ngxf3 { Everything from the accepted gambit, for free: f-file, development lead - and now e6 is weak too. } 6... Nf6 7. Bc4 { The bishop switches diagonals to hit the new weakness. This is the structural difference from Chapters 1-3: e6 is the target now. } 7... Bd6 8. Qe2 O-O 9. O-O-O { Opposite kings with e6 in the crosshairs. } 9... Nc6 10. Bg5 Re8 { Defending e6 laterally - too slow. } 11. c3 { +1.2, and a 100 percent score in the sample: White simply continues Ne5, h4 and Rhf1 while Black's counterplay never arrives. } *
+
+[Event "Alapin Gambit - Ch 4: 4...f5, clinging to the pawn - line 3/8"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 4"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 f5 { The greedy try, 29 percent of games: Black keeps e4 at the price of weakening e6 and the a2-g8 diagonal - exactly where White's pieces want to go. From here the gambit is objectively sound: Stockfish reads equal or better for White everywhere. } 5. f3 { Insist. Either the f-file opens anyway or e4 falls. } 5... exf3 { 78 percent take again. } 6. Ngxf3 { Everything from the accepted gambit, for free: f-file, development lead - and now e6 is weak too. } 6... Nf6 7. Bc4 { The bishop switches diagonals to hit the new weakness. This is the structural difference from Chapters 1-3: e6 is the target now. } 7... Nc6 { Stockfish's preference: cover e5 and fight for the centre. } 8. Qe2 Bd6 9. O-O-O { The full setup: pressure on e6 and the d-file, Bg5 and Rhe1 to come. White's score: 53 percent with all the fun. } *
+
+[Event "Alapin Gambit - Ch 4: 4...f5, clinging to the pawn - line 4/8"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 4"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 f5 { The greedy try, 29 percent of games: Black keeps e4 at the price of weakening e6 and the a2-g8 diagonal - exactly where White's pieces want to go. From here the gambit is objectively sound: Stockfish reads equal or better for White everywhere. } 5. f3 { Insist. Either the f-file opens anyway or e4 falls. } 5... exf3 { 78 percent take again. } 6. Ngxf3 { Everything from the accepted gambit, for free: f-file, development lead - and now e6 is weak too. } 6... Nf6 7. Bc4 { The bishop switches diagonals to hit the new weakness. This is the structural difference from Chapters 1-3: e6 is the target now. } 7... c6 { Securing d5 - but blocking the queenside and ignoring development; a typical club mistake (10 percent of games). } 8. Qe2 Nd5 9. Bxd5 { Giving up the proud bishop to fix Black with a permanent weakness: after 9...cxd5 the e6-pawn is backward on a half-open file forever. Stockfish +1.3. } *
+
+[Event "Alapin Gambit - Ch 4: 4...f5, clinging to the pawn - line 5/8"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 4"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 f5 { The greedy try, 29 percent of games: Black keeps e4 at the price of weakening e6 and the a2-g8 diagonal - exactly where White's pieces want to go. From here the gambit is objectively sound: Stockfish reads equal or better for White everywhere. } 5. f3 { Insist. Either the f-file opens anyway or e4 falls. } 5... Nf6 6. fxe4 fxe4 7. c3 { Solid: White will develop, castle and collect e4 at leisure - it cannot run away. } 7... Bd6 8. Bg5 { The annoying pin: 8...h6 9.Bxf6 Qxf6 and with the f5/e4 pawns loose and e6 soft, White regains everything with interest. } *
+
+[Event "Alapin Gambit - Ch 4: 4...f5, clinging to the pawn - line 6/8"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 4"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 f5 { The greedy try, 29 percent of games: Black keeps e4 at the price of weakening e6 and the a2-g8 diagonal - exactly where White's pieces want to go. From here the gambit is objectively sound: Stockfish reads equal or better for White everywhere. } 5. f3 { Insist. Either the f-file opens anyway or e4 falls. } 5... Nf6 6. fxe4 fxe4 7. c3 { Solid: White will develop, castle and collect e4 at leisure - it cannot run away. } 7... b6 8. Nh3 { +1.0. The knight reroutes via f4 or g5 straight at the weakened e6-pawn. } *
+
+[Event "Alapin Gambit - Ch 4: 4...f5, clinging to the pawn - line 7/8"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 4"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 f5 { The greedy try, 29 percent of games: Black keeps e4 at the price of weakening e6 and the a2-g8 diagonal - exactly where White's pieces want to go. From here the gambit is objectively sound: Stockfish reads equal or better for White everywhere. } 5. f3 { Insist. Either the f-file opens anyway or e4 falls. } 5... Nf6 6. fxe4 Nxe4 { Played in a third of low-rated games - and refuted on the spot. } 7. Nxe4 fxe4 8. Qh5+ { The punishment for ...f5 in one move. } 8... g6 9. Qe5 { Forking h8 and e4. } 9... Rg8 10. Qxe4 { Material is level again, and compare the kings. Stockfish +0.8-+1.9; in practice White scores 59 percent and rising. } 10... Nc6 11. Bc4 { +1.9. Pressure on e6 with the king stuck: White develops with threats on every move. } *
+
+[Event "Alapin Gambit - Ch 4: 4...f5, clinging to the pawn - line 8/8"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 4"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 f5 { The greedy try, 29 percent of games: Black keeps e4 at the price of weakening e6 and the a2-g8 diagonal - exactly where White's pieces want to go. From here the gambit is objectively sound: Stockfish reads equal or better for White everywhere. } 5. f3 { Insist. Either the f-file opens anyway or e4 falls. } 5... Nf6 6. fxe4 Nxe4 { Played in a third of low-rated games - and refuted on the spot. } 7. Nxe4 fxe4 8. Qh5+ { The punishment for ...f5 in one move. } 8... g6 9. Qe5 { Forking h8 and e4. } 9... Rg8 10. Qxe4 { Material is level again, and compare the kings. Stockfish +0.8-+1.9; in practice White scores 59 percent and rising. } 10... Bg7 { Naturally developing - and losing more: e6 cannot be defended. } 11. Bc4 { +3.6. The e6-pawn falls with the black king still in the centre. } *
+
+[Event "Alapin Gambit - Ch 5: Declined with 3...Nf6 - line 1/14"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
 [White "Repertoire"]
 [Black "Chapter 5"]
 [Result "*"]
 
-1. e4 e6 2. d4 d5 3. Be3 Nf6 {Declining (19 percent of games) - and walking into a French Advance where White has the rare luxury of Be3 played for free. Stockfish: +0.7.} 4. e5 Nfd7 (4... Ne4 {The howler - yet it appears in 18 percent of games at 1400-1600. The knight has no support and no retreat.} 5. f3 {+3.3. Every knight move now loses material.} Ng5 (5... Qh4+ {The tricky try, beloved at higher bands - it loses a full piece to one precise sequence.} 6. g3 Nxg3 7. Bf2 {The skewer: the g3-knight is pinned against its own queen by the f2-bishop.} Nc6 (7... Qg5 8. hxg3 {+4.3. The h-pawn collects the knight; White is a piece up with open lines.}) (7... Bb4+ 8. c3 {Blocking with tempo. The knight on g3 still cannot move, and after the bishop retreats White harvests it at leisure. +3.7.}) 8. c3 {The key finesse (+3.5): deny ...Bb4+ and ...Qb4+ counterplay first. The knight cannot be saved - the engine line runs 8...Qh6 9.Bxg3 with a clean extra piece.}) 6. h4 {+4.2. The hunt: the knight is lost on every reply.} Nxf3+ {The desperado - knight takes pawn, but that is all it gets.} (6... Be7 7. hxg5 Bxg5 8. Bxg5 Qxg5 9. Qd2 {Consolidating a piece up: 9...Qg3+ 10.Kd1 and the checks run dry immediately. +4.3.}) (6... Ne4 7. fxe4 dxe4 8. Nc3 {+5.0. A whole piece for a pawn, and even the e4-pawn falls next.}) 7. Nxf3 Nc6 8. c3 {+4.7. A clean piece up: keep the centre, develop, win. White converts this 83 percent of the time.}) 5. f4 {The Advance French, improved: Be3 already defends d4, so Black's entire ...Qb6 counterplay system misfires.} c5 6. c3 Nc6 (6... cxd4 7. cxd4 Bb4+ {Trading the check for nothing.} 8. Nd2 {The modest block scores 82 percent here: the pin has no follow-up, and a3 plus Bd3 will collect tempi against the bishop.}) (6... Qb6 7. Qd2 Nc6 (7... cxd4 8. cxd4 {After 8...Bb4 9.Nc3 we transpose to the main line below - one repertoire, many move orders.}) 8. Nf3 {Transposing to the main line: ...Qb6 was answered by Qd2 and nothing in Black's setup works better for it.}) 7. Nf3 Qb6 {The standard French recipe: pile on d4 and b2. Here it earns Black a worse version of every known structure - d4 is overprotected.} (7... cxd4 8. cxd4 {The same position-type: ...Bb4+ is met by Nc3 or Nd2, ...Qb6 by Qd2. Stockfish +0.6-+1.1 everywhere.}) (7... Be7 8. Bd3 {Simple development: O-O next, then the standard kingside expansion with the f5-break always in reserve. +1.0.}) 8. Qd2 cxd4 9. cxd4 Bb4 {Pinning - the engine's main line.} (9... Be7 10. Nc3 {+1.5: compare any normal Advance French - White is two tempi up.}) 10. Nc3 O-O (10... Qa5 11. Bd3 Nb6 12. O-O {+0.8. The queenside demonstration achieved nothing; White's kingside majority and space tell. 59 percent score.}) 11. Bd3 f6 {The thematic counter-break - and here it backfires spectacularly.} 12. O-O {+2.2, with a 69 percent score. The point: after ...fxe5 fxe5 the f-file belongs to White, Ng5 and Bxh7 motifs abound, and e6 hangs in many lines. Everything Black wants to do helps White.} *
+1. e4 e6 2. d4 d5 3. Be3 Nf6 { Declining (19 percent of games) - and walking into a French Advance where White has the rare luxury of Be3 played for free. Stockfish: +0.7. } 4. e5 Nfd7 5. f4 { The Advance French, improved: Be3 already defends d4, so Black's entire ...Qb6 counterplay system misfires. } 5... c5 6. c3 Nc6 7. Nf3 Qb6 { The standard French recipe: pile on d4 and b2. Here it earns Black a worse version of every known structure - d4 is overprotected. } 8. Qd2 cxd4 9. cxd4 Bb4 { Pinning - the engine's main line. } 10. Nc3 O-O 11. Bd3 f6 { The thematic counter-break - and here it backfires spectacularly. } 12. O-O { +2.2, with a 69 percent score. The point: after ...fxe5 fxe5 the f-file belongs to White, Ng5 and Bxh7 motifs abound, and e6 hangs in many lines. Everything Black wants to do helps White. } *
 
-[Event "Alapin Gambit - Ch 6: 3...c5 and the c5 traps"]
+[Event "Alapin Gambit - Ch 5: Declined with 3...Nf6 - line 2/14"]
 [Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 5"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 Nf6 { Declining (19 percent of games) - and walking into a French Advance where White has the rare luxury of Be3 played for free. Stockfish: +0.7. } 4. e5 Nfd7 5. f4 { The Advance French, improved: Be3 already defends d4, so Black's entire ...Qb6 counterplay system misfires. } 5... c5 6. c3 Nc6 7. Nf3 Qb6 { The standard French recipe: pile on d4 and b2. Here it earns Black a worse version of every known structure - d4 is overprotected. } 8. Qd2 cxd4 9. cxd4 Bb4 { Pinning - the engine's main line. } 10. Nc3 Qa5 11. Bd3 Nb6 12. O-O { +0.8. The queenside demonstration achieved nothing; White's kingside majority and space tell. 59 percent score. } *
+
+[Event "Alapin Gambit - Ch 5: Declined with 3...Nf6 - line 3/14"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 5"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 Nf6 { Declining (19 percent of games) - and walking into a French Advance where White has the rare luxury of Be3 played for free. Stockfish: +0.7. } 4. e5 Nfd7 5. f4 { The Advance French, improved: Be3 already defends d4, so Black's entire ...Qb6 counterplay system misfires. } 5... c5 6. c3 Nc6 7. Nf3 Qb6 { The standard French recipe: pile on d4 and b2. Here it earns Black a worse version of every known structure - d4 is overprotected. } 8. Qd2 cxd4 9. cxd4 Be7 10. Nc3 { +1.5: compare any normal Advance French - White is two tempi up. } *
+
+[Event "Alapin Gambit - Ch 5: Declined with 3...Nf6 - line 4/14"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 5"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 Nf6 { Declining (19 percent of games) - and walking into a French Advance where White has the rare luxury of Be3 played for free. Stockfish: +0.7. } 4. e5 Nfd7 5. f4 { The Advance French, improved: Be3 already defends d4, so Black's entire ...Qb6 counterplay system misfires. } 5... c5 6. c3 Nc6 7. Nf3 cxd4 8. cxd4 { The same position-type: ...Bb4+ is met by Nc3 or Nd2, ...Qb6 by Qd2. Stockfish +0.6-+1.1 everywhere. } *
+
+[Event "Alapin Gambit - Ch 5: Declined with 3...Nf6 - line 5/14"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 5"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 Nf6 { Declining (19 percent of games) - and walking into a French Advance where White has the rare luxury of Be3 played for free. Stockfish: +0.7. } 4. e5 Nfd7 5. f4 { The Advance French, improved: Be3 already defends d4, so Black's entire ...Qb6 counterplay system misfires. } 5... c5 6. c3 Nc6 7. Nf3 Be7 8. Bd3 { Simple development: O-O next, then the standard kingside expansion with the f5-break always in reserve. +1.0. } *
+
+[Event "Alapin Gambit - Ch 5: Declined with 3...Nf6 - line 6/14"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 5"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 Nf6 { Declining (19 percent of games) - and walking into a French Advance where White has the rare luxury of Be3 played for free. Stockfish: +0.7. } 4. e5 Nfd7 5. f4 { The Advance French, improved: Be3 already defends d4, so Black's entire ...Qb6 counterplay system misfires. } 5... c5 6. c3 cxd4 7. cxd4 Bb4+ { Trading the check for nothing. } 8. Nd2 { The modest block scores 82 percent here: the pin has no follow-up, and a3 plus Bd3 will collect tempi against the bishop. } *
+
+[Event "Alapin Gambit - Ch 5: Declined with 3...Nf6 - line 7/14"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 5"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 Nf6 { Declining (19 percent of games) - and walking into a French Advance where White has the rare luxury of Be3 played for free. Stockfish: +0.7. } 4. e5 Nfd7 5. f4 { The Advance French, improved: Be3 already defends d4, so Black's entire ...Qb6 counterplay system misfires. } 5... c5 6. c3 Qb6 7. Qd2 Nc6 8. Nf3 { Transposing to the main line: ...Qb6 was answered by Qd2 and nothing in Black's setup works better for it. } *
+
+[Event "Alapin Gambit - Ch 5: Declined with 3...Nf6 - line 8/14"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 5"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 Nf6 { Declining (19 percent of games) - and walking into a French Advance where White has the rare luxury of Be3 played for free. Stockfish: +0.7. } 4. e5 Nfd7 5. f4 { The Advance French, improved: Be3 already defends d4, so Black's entire ...Qb6 counterplay system misfires. } 5... c5 6. c3 Qb6 7. Qd2 cxd4 8. cxd4 { After 8...Bb4 9.Nc3 we transpose to the main line below - one repertoire, many move orders. } *
+
+[Event "Alapin Gambit - Ch 5: Declined with 3...Nf6 - line 9/14"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 5"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 Nf6 { Declining (19 percent of games) - and walking into a French Advance where White has the rare luxury of Be3 played for free. Stockfish: +0.7. } 4. e5 Ne4 { The howler - yet it appears in 18 percent of games at 1400-1600. The knight has no support and no retreat. } 5. f3 { +3.3. Every knight move now loses material. } 5... Ng5 6. h4 { +4.2. The hunt: the knight is lost on every reply. } 6... Nxf3+ { The desperado - knight takes pawn, but that is all it gets. } 7. Nxf3 Nc6 8. c3 { +4.7. A clean piece up: keep the centre, develop, win. White converts this 83 percent of the time. } *
+
+[Event "Alapin Gambit - Ch 5: Declined with 3...Nf6 - line 10/14"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 5"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 Nf6 { Declining (19 percent of games) - and walking into a French Advance where White has the rare luxury of Be3 played for free. Stockfish: +0.7. } 4. e5 Ne4 { The howler - yet it appears in 18 percent of games at 1400-1600. The knight has no support and no retreat. } 5. f3 { +3.3. Every knight move now loses material. } 5... Ng5 6. h4 { +4.2. The hunt: the knight is lost on every reply. } 6... Be7 7. hxg5 Bxg5 8. Bxg5 Qxg5 9. Qd2 { Consolidating a piece up: 9...Qg3+ 10.Kd1 and the checks run dry immediately. +4.3. } *
+
+[Event "Alapin Gambit - Ch 5: Declined with 3...Nf6 - line 11/14"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 5"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 Nf6 { Declining (19 percent of games) - and walking into a French Advance where White has the rare luxury of Be3 played for free. Stockfish: +0.7. } 4. e5 Ne4 { The howler - yet it appears in 18 percent of games at 1400-1600. The knight has no support and no retreat. } 5. f3 { +3.3. Every knight move now loses material. } 5... Ng5 6. h4 { +4.2. The hunt: the knight is lost on every reply. } 6... Ne4 7. fxe4 dxe4 8. Nc3 { +5.0. A whole piece for a pawn, and even the e4-pawn falls next. } *
+
+[Event "Alapin Gambit - Ch 5: Declined with 3...Nf6 - line 12/14"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 5"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 Nf6 { Declining (19 percent of games) - and walking into a French Advance where White has the rare luxury of Be3 played for free. Stockfish: +0.7. } 4. e5 Ne4 { The howler - yet it appears in 18 percent of games at 1400-1600. The knight has no support and no retreat. } 5. f3 { +3.3. Every knight move now loses material. } 5... Qh4+ { The tricky try, beloved at higher bands - it loses a full piece to one precise sequence. } 6. g3 Nxg3 7. Bf2 { The skewer: the g3-knight is pinned against its own queen by the f2-bishop. } 7... Nc6 8. c3 { The key finesse (+3.5): deny ...Bb4+ and ...Qb4+ counterplay first. The knight cannot be saved - the engine line runs 8...Qh6 9.Bxg3 with a clean extra piece. } *
+
+[Event "Alapin Gambit - Ch 5: Declined with 3...Nf6 - line 13/14"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 5"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 Nf6 { Declining (19 percent of games) - and walking into a French Advance where White has the rare luxury of Be3 played for free. Stockfish: +0.7. } 4. e5 Ne4 { The howler - yet it appears in 18 percent of games at 1400-1600. The knight has no support and no retreat. } 5. f3 { +3.3. Every knight move now loses material. } 5... Qh4+ { The tricky try, beloved at higher bands - it loses a full piece to one precise sequence. } 6. g3 Nxg3 7. Bf2 { The skewer: the g3-knight is pinned against its own queen by the f2-bishop. } 7... Qg5 8. hxg3 { +4.3. The h-pawn collects the knight; White is a piece up with open lines. } *
+
+[Event "Alapin Gambit - Ch 5: Declined with 3...Nf6 - line 14/14"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 5"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 Nf6 { Declining (19 percent of games) - and walking into a French Advance where White has the rare luxury of Be3 played for free. Stockfish: +0.7. } 4. e5 Ne4 { The howler - yet it appears in 18 percent of games at 1400-1600. The knight has no support and no retreat. } 5. f3 { +3.3. Every knight move now loses material. } 5... Qh4+ { The tricky try, beloved at higher bands - it loses a full piece to one precise sequence. } 6. g3 Nxg3 7. Bf2 { The skewer: the g3-knight is pinned against its own queen by the f2-bishop. } 7... Bb4+ 8. c3 { Blocking with tempo. The knight on g3 still cannot move, and after the bishop retreats White harvests it at leisure. +3.7. } *
+
+[Event "Alapin Gambit - Ch 6: 3...c5 and the c5 traps - line 1/21"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
 [White "Repertoire"]
 [Black "Chapter 6"]
 [Result "*"]
 
-1. e4 e6 2. d4 d5 3. Be3 c5 {The French reflex - already imprecise here (Stockfish +0.9), and the source of more blunders than any other move: it appears in 11 percent of club games.} 4. dxc5 {The e3-bishop now guards c5 - a fact Black misses with astonishing frequency.} Qa5+ {The most cunning try (26 percent): Black gives a check expecting to win c5 next move.} (4... Bxc5 {11 percent of games, instantly losing a piece: the e3-bishop was watching.} 5. Bxc5 Qa5+ {The follow-up everyone intends: fork the king and bishop.} (5... Ne7 6. exd5 {A piece up with more coming; just develop and convert. +4.8.}) (5... Nc6 6. exd5 exd5 7. Bb5 {Piece up, pin on, d5 falling. +4.9.}) (5... dxe4 6. Qxd8+ Kxd8 7. Ne2 {Queens off, piece up, +5.4. The technique phase starts immediately.}) 6. b4 {The cold shower: one pawn move blocks the check and defends the bishop. Note 6...Qxb4+ fails to 7.Bxb4 - c5 covers b4.} Qc7 (6... Qa4 7. Nc3 {Hitting the queen again; +6.8 as Black's queen wanders alone while White develops with threats every move.}) (6... Qd8 7. exd5 {Best defence, hopeless position: +5.1 and 7...exd5 8.Nf3 next just develops up a piece.}) 7. exd5 {+5.0. Opening more lines while a piece up; 7...exd5 8.Nf3 and Black has nothing for it.}) (4... Nc6 5. exd5 exd5 6. Bb5 {+1.2: the classic anti-isolani setup - pin the knight, pressure d5, keep the extra c5-pawn as long as it is convenient. White scores 54 percent and climbing with every accurate move.}) (4... Nf6 {Objectively Black's best: develop first, regain pawns later. Note it is chosen by 25 percent of 2200+ players and only 7 percent at club level.} 5. Nc3 Nc6 (5... Nxe4 6. Nxe4 dxe4 7. Qxd8+ {+1.5. After 7...Kxd8 White keeps the extra c5-pawn in a queenless position with the safer king - a risk-free endgame grind that scores 57 percent.}) (5... Bxc5 {Even here the bishop cannot take.} 6. Bxc5 {+5.1: and if 6...Qa5 to fork, then 7.Qd4 holds c5 and everything else. A piece is a piece.}) 6. exd5 exd5 (6... Nxd5 7. Nxd5 {+2.2. After either recapture on d5 White consolidates the extra c5-pawn - for instance 7...Qxd5 8.Qxd5 exd5 and White is simply a sound pawn up.}) 7. Bb5 {+1.4: maximum pressure on d5 while Black is still proving compensation for one pawn.}) (4... dxe4 5. Qxd8+ Kxd8 6. Nc3 {+1.4. A queenless middlegame where only White has threats: the king on d8 is a target down the d-file.} f5 {Trying to hold e4.} (6... Nf6 7. O-O-O+ {The point of having played Be3: long castling arrives with check. White regains e4 at leisure or keeps pressing the pinned-down king. +1.5.}) 7. O-O-O+ {+2.4. The check costs Black the right to coordinate: 7...Bd7 8.g4 or 7...Ke8 8.Nb5 - White's initiative plays itself at 58 percent.}) 5. Nc3 {Blocking with development. Now watch what happens to the players who grab c5.} Bxc5 {Here is the most instructive statistic in the course: 92 percent of all players - and even 71 percent of 2200+ players - take the pawn, certain that the queen on a5 protects the bishop.} (5... Nf6 {The engine's recommendation: keep developing.} 6. exd5 Nxd5 (6... Bxc5 {Still wrong, for the same beautiful reason:} 7. Bb5+ {+3.5. The check interposes on the fifth rank, severing the a5-queen's defence of c5 - next move White takes the bishop for free.}) (6... exd5 7. Bb5+ {+2.4: same geometry - block the fifth rank with check, then collect. Both 7...Bd7 and 7...Nc6 leave White a clean pawn up with the initiative after the c5-bishop falls or is traded favourably.}) 7. Bd2 {The precise move: break the a5-e1 pin with tempo. White keeps the extra c5-pawn; Stockfish +0.6 and a 60 percent practical score.}) (5... dxe4 {Grabbing a different pawn - now the queen gets harassed.} 6. a3 {Quiet and deadly: b4 comes with tempo, and e4 falls later.} Nf6 (6... Bxc5 7. Bb5+ {+4.5. The fifth-rank check once more - by now you know the geometry.}) (6... f5 {Holding e4 at all costs.} 7. b4 {+3.4. The queen is pushed around the board while White opens lines: 7...Qd8 8.Qxd8+ Kxd8 9.O-O-O+ or 7...Qc7 8.Nb5 - either way the initiative is overwhelming.}) 7. b4 {+1.8. After 7...Qc7 8.Nxe4 White has restored material with a big lead in development - the c5-pawn even survives a while.}) 6. Bb5+ {The move that makes this whole chapter worth learning. The check lands ON THE FIFTH RANK: the b5-bishop physically cuts the a5-queen's defence of c5. Whatever blocks the check, 7.Bxc5 wins a clean piece - and ...Qxc5 is literally illegal.} Bd7 (6... Nc6 7. Bxc5 {+5.2 - even better than the main trap: the c6-knight is pinned to the king, so Black cannot even fight back in the centre. The bishop on c5 is untouchable; White is a piece up.}) 7. Bxc5 {+3.6, winning a piece: the queen still cannot take c5 because b5 blocks the fifth rank. The engine's best for Black is 7...Bxb5 8.Qd4 - hitting g7 and consolidating - when 8...Nf6 9.exd5 keeps everything. White converts this position 61 percent of the time even at club level, and it should be 100.} *
+1. e4 e6 2. d4 d5 3. Be3 c5 { The French reflex - already imprecise here (Stockfish +0.9), and the source of more blunders than any other move: it appears in 11 percent of club games. } 4. dxc5 { The e3-bishop now guards c5 - a fact Black misses with astonishing frequency. } 4... Qa5+ { The most cunning try (26 percent): Black gives a check expecting to win c5 next move. } 5. Nc3 { Blocking with development. Now watch what happens to the players who grab c5. } 5... Bxc5 { Here is the most instructive statistic in the course: 92 percent of all players - and even 71 percent of 2200+ players - take the pawn, certain that the queen on a5 protects the bishop. } 6. Bb5+ { The move that makes this whole chapter worth learning. The check lands ON THE FIFTH RANK: the b5-bishop physically cuts the a5-queen's defence of c5. Whatever blocks the check, 7.Bxc5 wins a clean piece - and ...Qxc5 is literally illegal. } 6... Bd7 7. Bxc5 { +3.6, winning a piece: the queen still cannot take c5 because b5 blocks the fifth rank. The engine's best for Black is 7...Bxb5 8.Qd4 - hitting g7 and consolidating - when 8...Nf6 9.exd5 keeps everything. White converts this position 61 percent of the time even at club level, and it should be 100. } *
+
+[Event "Alapin Gambit - Ch 6: 3...c5 and the c5 traps - line 2/21"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 6"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 c5 { The French reflex - already imprecise here (Stockfish +0.9), and the source of more blunders than any other move: it appears in 11 percent of club games. } 4. dxc5 { The e3-bishop now guards c5 - a fact Black misses with astonishing frequency. } 4... Qa5+ { The most cunning try (26 percent): Black gives a check expecting to win c5 next move. } 5. Nc3 { Blocking with development. Now watch what happens to the players who grab c5. } 5... Bxc5 { Here is the most instructive statistic in the course: 92 percent of all players - and even 71 percent of 2200+ players - take the pawn, certain that the queen on a5 protects the bishop. } 6. Bb5+ { The move that makes this whole chapter worth learning. The check lands ON THE FIFTH RANK: the b5-bishop physically cuts the a5-queen's defence of c5. Whatever blocks the check, 7.Bxc5 wins a clean piece - and ...Qxc5 is literally illegal. } 6... Nc6 7. Bxc5 { +5.2 - even better than the main trap: the c6-knight is pinned to the king, so Black cannot even fight back in the centre. The bishop on c5 is untouchable; White is a piece up. } *
+
+[Event "Alapin Gambit - Ch 6: 3...c5 and the c5 traps - line 3/21"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 6"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 c5 { The French reflex - already imprecise here (Stockfish +0.9), and the source of more blunders than any other move: it appears in 11 percent of club games. } 4. dxc5 { The e3-bishop now guards c5 - a fact Black misses with astonishing frequency. } 4... Qa5+ { The most cunning try (26 percent): Black gives a check expecting to win c5 next move. } 5. Nc3 { Blocking with development. Now watch what happens to the players who grab c5. } 5... Nf6 { The engine's recommendation: keep developing. } 6. exd5 Nxd5 7. Bd2 { The precise move: break the a5-e1 pin with tempo. White keeps the extra c5-pawn; Stockfish +0.6 and a 60 percent practical score. } *
+
+[Event "Alapin Gambit - Ch 6: 3...c5 and the c5 traps - line 4/21"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 6"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 c5 { The French reflex - already imprecise here (Stockfish +0.9), and the source of more blunders than any other move: it appears in 11 percent of club games. } 4. dxc5 { The e3-bishop now guards c5 - a fact Black misses with astonishing frequency. } 4... Qa5+ { The most cunning try (26 percent): Black gives a check expecting to win c5 next move. } 5. Nc3 { Blocking with development. Now watch what happens to the players who grab c5. } 5... Nf6 { The engine's recommendation: keep developing. } 6. exd5 Bxc5 { Still wrong, for the same beautiful reason: } 7. Bb5+ { +3.5. The check interposes on the fifth rank, severing the a5-queen's defence of c5 - next move White takes the bishop for free. } *
+
+[Event "Alapin Gambit - Ch 6: 3...c5 and the c5 traps - line 5/21"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 6"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 c5 { The French reflex - already imprecise here (Stockfish +0.9), and the source of more blunders than any other move: it appears in 11 percent of club games. } 4. dxc5 { The e3-bishop now guards c5 - a fact Black misses with astonishing frequency. } 4... Qa5+ { The most cunning try (26 percent): Black gives a check expecting to win c5 next move. } 5. Nc3 { Blocking with development. Now watch what happens to the players who grab c5. } 5... Nf6 { The engine's recommendation: keep developing. } 6. exd5 exd5 7. Bb5+ { +2.4: same geometry - block the fifth rank with check, then collect. Both 7...Bd7 and 7...Nc6 leave White a clean pawn up with the initiative after the c5-bishop falls or is traded favourably. } *
+
+[Event "Alapin Gambit - Ch 6: 3...c5 and the c5 traps - line 6/21"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 6"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 c5 { The French reflex - already imprecise here (Stockfish +0.9), and the source of more blunders than any other move: it appears in 11 percent of club games. } 4. dxc5 { The e3-bishop now guards c5 - a fact Black misses with astonishing frequency. } 4... Qa5+ { The most cunning try (26 percent): Black gives a check expecting to win c5 next move. } 5. Nc3 { Blocking with development. Now watch what happens to the players who grab c5. } 5... dxe4 { Grabbing a different pawn - now the queen gets harassed. } 6. a3 { Quiet and deadly: b4 comes with tempo, and e4 falls later. } 6... Nf6 7. b4 { +1.8. After 7...Qc7 8.Nxe4 White has restored material with a big lead in development - the c5-pawn even survives a while. } *
+
+[Event "Alapin Gambit - Ch 6: 3...c5 and the c5 traps - line 7/21"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 6"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 c5 { The French reflex - already imprecise here (Stockfish +0.9), and the source of more blunders than any other move: it appears in 11 percent of club games. } 4. dxc5 { The e3-bishop now guards c5 - a fact Black misses with astonishing frequency. } 4... Qa5+ { The most cunning try (26 percent): Black gives a check expecting to win c5 next move. } 5. Nc3 { Blocking with development. Now watch what happens to the players who grab c5. } 5... dxe4 { Grabbing a different pawn - now the queen gets harassed. } 6. a3 { Quiet and deadly: b4 comes with tempo, and e4 falls later. } 6... Bxc5 7. Bb5+ { +4.5. The fifth-rank check once more - by now you know the geometry. } *
+
+[Event "Alapin Gambit - Ch 6: 3...c5 and the c5 traps - line 8/21"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 6"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 c5 { The French reflex - already imprecise here (Stockfish +0.9), and the source of more blunders than any other move: it appears in 11 percent of club games. } 4. dxc5 { The e3-bishop now guards c5 - a fact Black misses with astonishing frequency. } 4... Qa5+ { The most cunning try (26 percent): Black gives a check expecting to win c5 next move. } 5. Nc3 { Blocking with development. Now watch what happens to the players who grab c5. } 5... dxe4 { Grabbing a different pawn - now the queen gets harassed. } 6. a3 { Quiet and deadly: b4 comes with tempo, and e4 falls later. } 6... f5 { Holding e4 at all costs. } 7. b4 { +3.4. The queen is pushed around the board while White opens lines: 7...Qd8 8.Qxd8+ Kxd8 9.O-O-O+ or 7...Qc7 8.Nb5 - either way the initiative is overwhelming. } *
+
+[Event "Alapin Gambit - Ch 6: 3...c5 and the c5 traps - line 9/21"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 6"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 c5 { The French reflex - already imprecise here (Stockfish +0.9), and the source of more blunders than any other move: it appears in 11 percent of club games. } 4. dxc5 { The e3-bishop now guards c5 - a fact Black misses with astonishing frequency. } 4... Bxc5 { 11 percent of games, instantly losing a piece: the e3-bishop was watching. } 5. Bxc5 Qa5+ { The follow-up everyone intends: fork the king and bishop. } 6. b4 { The cold shower: one pawn move blocks the check and defends the bishop. Note 6...Qxb4+ fails to 7.Bxb4 - c5 covers b4. } 6... Qc7 7. exd5 { +5.0. Opening more lines while a piece up; 7...exd5 8.Nf3 and Black has nothing for it. } *
+
+[Event "Alapin Gambit - Ch 6: 3...c5 and the c5 traps - line 10/21"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 6"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 c5 { The French reflex - already imprecise here (Stockfish +0.9), and the source of more blunders than any other move: it appears in 11 percent of club games. } 4. dxc5 { The e3-bishop now guards c5 - a fact Black misses with astonishing frequency. } 4... Bxc5 { 11 percent of games, instantly losing a piece: the e3-bishop was watching. } 5. Bxc5 Qa5+ { The follow-up everyone intends: fork the king and bishop. } 6. b4 { The cold shower: one pawn move blocks the check and defends the bishop. Note 6...Qxb4+ fails to 7.Bxb4 - c5 covers b4. } 6... Qa4 7. Nc3 { Hitting the queen again; +6.8 as Black's queen wanders alone while White develops with threats every move. } *
+
+[Event "Alapin Gambit - Ch 6: 3...c5 and the c5 traps - line 11/21"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 6"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 c5 { The French reflex - already imprecise here (Stockfish +0.9), and the source of more blunders than any other move: it appears in 11 percent of club games. } 4. dxc5 { The e3-bishop now guards c5 - a fact Black misses with astonishing frequency. } 4... Bxc5 { 11 percent of games, instantly losing a piece: the e3-bishop was watching. } 5. Bxc5 Qa5+ { The follow-up everyone intends: fork the king and bishop. } 6. b4 { The cold shower: one pawn move blocks the check and defends the bishop. Note 6...Qxb4+ fails to 7.Bxb4 - c5 covers b4. } 6... Qd8 7. exd5 { Best defence, hopeless position: +5.1 and 7...exd5 8.Nf3 next just develops up a piece. } *
+
+[Event "Alapin Gambit - Ch 6: 3...c5 and the c5 traps - line 12/21"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 6"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 c5 { The French reflex - already imprecise here (Stockfish +0.9), and the source of more blunders than any other move: it appears in 11 percent of club games. } 4. dxc5 { The e3-bishop now guards c5 - a fact Black misses with astonishing frequency. } 4... Bxc5 { 11 percent of games, instantly losing a piece: the e3-bishop was watching. } 5. Bxc5 Ne7 6. exd5 { A piece up with more coming; just develop and convert. +4.8. } *
+
+[Event "Alapin Gambit - Ch 6: 3...c5 and the c5 traps - line 13/21"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 6"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 c5 { The French reflex - already imprecise here (Stockfish +0.9), and the source of more blunders than any other move: it appears in 11 percent of club games. } 4. dxc5 { The e3-bishop now guards c5 - a fact Black misses with astonishing frequency. } 4... Bxc5 { 11 percent of games, instantly losing a piece: the e3-bishop was watching. } 5. Bxc5 Nc6 6. exd5 exd5 7. Bb5 { Piece up, pin on, d5 falling. +4.9. } *
+
+[Event "Alapin Gambit - Ch 6: 3...c5 and the c5 traps - line 14/21"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 6"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 c5 { The French reflex - already imprecise here (Stockfish +0.9), and the source of more blunders than any other move: it appears in 11 percent of club games. } 4. dxc5 { The e3-bishop now guards c5 - a fact Black misses with astonishing frequency. } 4... Bxc5 { 11 percent of games, instantly losing a piece: the e3-bishop was watching. } 5. Bxc5 dxe4 6. Qxd8+ Kxd8 7. Ne2 { Queens off, piece up, +5.4. The technique phase starts immediately. } *
+
+[Event "Alapin Gambit - Ch 6: 3...c5 and the c5 traps - line 15/21"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 6"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 c5 { The French reflex - already imprecise here (Stockfish +0.9), and the source of more blunders than any other move: it appears in 11 percent of club games. } 4. dxc5 { The e3-bishop now guards c5 - a fact Black misses with astonishing frequency. } 4... Nc6 5. exd5 exd5 6. Bb5 { +1.2: the classic anti-isolani setup - pin the knight, pressure d5, keep the extra c5-pawn as long as it is convenient. White scores 54 percent and climbing with every accurate move. } *
+
+[Event "Alapin Gambit - Ch 6: 3...c5 and the c5 traps - line 16/21"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 6"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 c5 { The French reflex - already imprecise here (Stockfish +0.9), and the source of more blunders than any other move: it appears in 11 percent of club games. } 4. dxc5 { The e3-bishop now guards c5 - a fact Black misses with astonishing frequency. } 4... Nf6 { Objectively Black's best: develop first, regain pawns later. Note it is chosen by 25 percent of 2200+ players and only 7 percent at club level. } 5. Nc3 Nc6 6. exd5 exd5 7. Bb5 { +1.4: maximum pressure on d5 while Black is still proving compensation for one pawn. } *
+
+[Event "Alapin Gambit - Ch 6: 3...c5 and the c5 traps - line 17/21"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 6"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 c5 { The French reflex - already imprecise here (Stockfish +0.9), and the source of more blunders than any other move: it appears in 11 percent of club games. } 4. dxc5 { The e3-bishop now guards c5 - a fact Black misses with astonishing frequency. } 4... Nf6 { Objectively Black's best: develop first, regain pawns later. Note it is chosen by 25 percent of 2200+ players and only 7 percent at club level. } 5. Nc3 Nc6 6. exd5 Nxd5 7. Nxd5 { +2.2. After either recapture on d5 White consolidates the extra c5-pawn - for instance 7...Qxd5 8.Qxd5 exd5 and White is simply a sound pawn up. } *
+
+[Event "Alapin Gambit - Ch 6: 3...c5 and the c5 traps - line 18/21"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 6"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 c5 { The French reflex - already imprecise here (Stockfish +0.9), and the source of more blunders than any other move: it appears in 11 percent of club games. } 4. dxc5 { The e3-bishop now guards c5 - a fact Black misses with astonishing frequency. } 4... Nf6 { Objectively Black's best: develop first, regain pawns later. Note it is chosen by 25 percent of 2200+ players and only 7 percent at club level. } 5. Nc3 Nxe4 6. Nxe4 dxe4 7. Qxd8+ { +1.5. After 7...Kxd8 White keeps the extra c5-pawn in a queenless position with the safer king - a risk-free endgame grind that scores 57 percent. } *
+
+[Event "Alapin Gambit - Ch 6: 3...c5 and the c5 traps - line 19/21"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 6"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 c5 { The French reflex - already imprecise here (Stockfish +0.9), and the source of more blunders than any other move: it appears in 11 percent of club games. } 4. dxc5 { The e3-bishop now guards c5 - a fact Black misses with astonishing frequency. } 4... Nf6 { Objectively Black's best: develop first, regain pawns later. Note it is chosen by 25 percent of 2200+ players and only 7 percent at club level. } 5. Nc3 Bxc5 { Even here the bishop cannot take. } 6. Bxc5 { +5.1: and if 6...Qa5 to fork, then 7.Qd4 holds c5 and everything else. A piece is a piece. } *
+
+[Event "Alapin Gambit - Ch 6: 3...c5 and the c5 traps - line 20/21"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 6"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 c5 { The French reflex - already imprecise here (Stockfish +0.9), and the source of more blunders than any other move: it appears in 11 percent of club games. } 4. dxc5 { The e3-bishop now guards c5 - a fact Black misses with astonishing frequency. } 4... dxe4 5. Qxd8+ Kxd8 6. Nc3 { +1.4. A queenless middlegame where only White has threats: the king on d8 is a target down the d-file. } 6... f5 { Trying to hold e4. } 7. O-O-O+ { +2.4. The check costs Black the right to coordinate: 7...Bd7 8.g4 or 7...Ke8 8.Nb5 - White's initiative plays itself at 58 percent. } *
+
+[Event "Alapin Gambit - Ch 6: 3...c5 and the c5 traps - line 21/21"]
+[Site "Checkable"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Repertoire"]
+[Black "Chapter 6"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Be3 c5 { The French reflex - already imprecise here (Stockfish +0.9), and the source of more blunders than any other move: it appears in 11 percent of club games. } 4. dxc5 { The e3-bishop now guards c5 - a fact Black misses with astonishing frequency. } 4... dxe4 5. Qxd8+ Kxd8 6. Nc3 { +1.4. A queenless middlegame where only White has threats: the king on d8 is a target down the d-file. } 6... Nf6 7. O-O-O+ { The point of having played Be3: long castling arrives with check. White regains e4 at leisure or keeps pressing the pinned-down king. +1.5. } *
