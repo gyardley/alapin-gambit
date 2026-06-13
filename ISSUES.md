@@ -1,5 +1,45 @@
 # Issues with generated courses
 
+## Version 2
+
+### Changes
+
+Classical games included.
+
+No mid-run shrinking of scope; it stays fixed.
+
+Strict coverage — every reply with ≥4% of games is evaluated, period. The real culprit behind 6...Nbd7 and 7...Nc6 was twofold — the old 10% threshold and a per-ply children cap that tapered to 1 past move 12. Both are gone; branching depth is now controlled by the data (explorer games thinning below MIN_GAMES_TO_EXPAND), with only an 8-candidate safety net.
+
+Transpositions — the builder remembers every expanded position by EPD. A repeat arrival gets a transposes_to pointer plus the canonical line's White reply (cloned, so the same position always gets the same repertoire move), and the report shows [→ transposes: …] so authoring can comment both directions.
+
+&Line endings — a line can no longer end while White is down more than 1 pawn of material (sacrifices play out until the advantage is on the board), while Black's best reply is forced (≥150cp gap to the second choice), or while a forced mate is pending — mates are now played to checkmate.
+
+Engine lines are cached; claims in comments, especially tactical claims, are checked post-writing.
+
+### Observations
+
+The Stockfish run to get the data (cached, thankfully) for this one took a solid day. A bigger opening would require more hardware or more patience.
+
+Chess language - 'exploit the light-colored squares', 'attack', etc. - has a chance of being flagged by Claude Fable's overaggressive cybersecurity filter. This broke a run, and a lot of work got done on Opus 4.8 and had to be thrown out.
+
+### Output
+
+1 PGN file, 131 annotated games, organized across 16 chapters.
+
+### Issues
+
+General impression - I feel like the later chapters have more weaknesses than the earlier ones. Length of context window issue? I may try chunking the work and assigning it to sub-agents.
+
+Statement evaluation catches mistakes, but it needs to be more granular and cover every claim - some minor inaccuracies slip through.
+
+The transpositions could be covered with comments on parent positions, instead of being given their own separate trained lines.
+
+There is no explanation why attractive looking moves for white are in fact bad; this is because the engine gets top lines, and doesn't look at bad ones. I may have the engine look at all player moves over 4%, not just the one chosen by the course, and pull the engine lines for each, so the PGN can include info on traps for the player to avoid.
+
+### To Do
+
+Re-watch some of William Graif's Alapin Gambit videos, to look for differences.
+
 ## Version 1
 
 ### Prompt used
@@ -33,8 +73,6 @@ A3) Depth ~24
 1 PGN file, 83 annotated games, organized in six chapters
 
 ### Issues
-
-To be completed. This will inform the next generation of the course generator.
 
 1) Generator used blitz + rapid games. There was no reason to not include classical games. This was my oversight.
 
